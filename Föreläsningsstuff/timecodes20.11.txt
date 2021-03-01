@@ -1,0 +1,35 @@
+Timecodes
+
+00:04:00 Har går det med projekt 1?   
+00:09:00 Har ni gjort läxan?
+00:14:00 Helpful stuff för projekt1 / Vad är boolean indexing?
+00:16:30 Sista hjälpen för projekt 1
+00:19:00 Hur många har börjat med datacamp.com
+00:26:00 13min paus
+00:40:00 Vi börjar med Data Engineering
+00:42:00 Vad är data engineering
+00:44:30 Request modulen
+00:48:00 request.get()
+00:50:30 Hur tar man hand om en respons / Objekt
+00:52:00 vilka metoder har våran respons "dir(req)"
+00:57:30 Beautifulsoup
+01:03:00 Vi tar en titt på Beautifulsoup documentationen
+01:11:00 Man kan komma åt taggar i bs med . notation
+01:12:30 dir(soup)
+01:15:40 hitta <span> taggar i htmln 
+01:18:30 soup.findAll hittar alla taggar
+01:22:40 hitta alla taggar med ett visst attribut
+01:25:00 vilka klasser har den första tablen på sidan
+01:28:00 16min paus
+01:45ish vi fortsätter
+--*-- Hade strul med zoom här en stund --*--
+01:54:30 for loops och findAll
+01:58:00 List comprehension (väldigt snygg kod dennis)
+02:06:40 Vi tar en titt på Projekt2
+02:20:00 Vi skapar en ny fil för att köpa en ny dator
+02:26:30 Vi börjar webskrapa newegg
+02:33:00 Hitta alla li element
+02:41:30 Hitta vissa element med vissa klasser
+ca.02:55:00 paus lektionen fortsätter med kodtillfälle.
+ 
+

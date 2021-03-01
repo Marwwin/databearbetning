@@ -1,0 +1,983 @@
+,Name,Score,Original Price,Discount,Discounted Price,Platform,Win,Linux,Mac,Release Date
+0,theHunter: Call of the Wild™,9,"19,99€",-70%,"5,99€                    ",win,1,0,0,"16 Feb, 2017"
+1,We Happy Few,7,"59,99€",-85%,"8,99€                    ",win,1,0,0,"10 Aug, 2018"
+2,Hearts of Iron IV,9,"39,99€",-75%,"9,99€                    ",win mac linux,1,1,1,"6 Jun, 2016"
+3,Titanfall® 2,10,"29,99€",-67%,"9,89€                    ",win,1,0,0,"18 Jun, 2020"
+4,theHunter: Call of the Wild™- Complete Collection,9,"115,81€",-58%,"48,78€                    ",win,1,0,0,
+5,Crusader Kings III,9,"49,99€",-20%,"39,99€                    ",win mac linux,1,1,1,"1 Sep, 2020"
+6,Hearts of Iron IV: Mobilization Pack,9,"104,95€",-64%,"38,20€                    ",win mac linux,1,1,1,
+7,Titanfall Collection,10,"49,98€",-71%,"14,30€                    ",win,1,0,0,
+8,Haydee 2,9,"20,99€",-10%,"18,89€                    ",win,1,0,0,"23 Nov, 2020"
+9,Command & Conquer™ Remastered Collection,9,"19,99€",-35%,"12,99€                    ",win,1,0,0,"5 Jun, 2020"
+10,Total War: WARHAMMER II - The Twisted & The Twilight,,"9,99€",-10%,"8,99€                    ",win mac linux,1,1,1,"3 Dec, 2020"
+11,Elite Dangerous,7,"24,99€",-75%,"6,25€                    ",win,1,0,0,"2 Apr, 2015"
+12,Slasher's Keep,9,"13,99€",-25%,"10,49€                    ",win,1,0,0,"19 Nov, 2020"
+13,art of rally,9,"20,99€",-20%,"16,79€                    ",win mac linux,1,1,1,"23 Sep, 2020"
+14,Marvel's Avengers,6,"59,99€",-50%,"29,99€                    ",win,1,0,0,"4 Sep, 2020"
+15,BPM: BULLETS PER MINUTE,9,"16,79€",-33%,"11,24€                    ",win,1,0,0,"15 Sep, 2020"
+16,Thief,7,"19,99€",-85%,"2,99€                    ",win mac,1,0,1,"27 Feb, 2014"
+17,Titanfall­™,7,"19,99€",-60%,"7,99€                    ",win,1,0,0,"20 Nov, 2020"
+18,Noita,10,"18,99€",-25%,"14,24€                    ",win,1,0,0,"15 Oct, 2020"
+19,Expansion - Hearts of Iron IV: Man the Guns,6,"19,99€",-50%,"9,99€                    ",win mac linux,1,1,1,"28 Feb, 2019"
+20,Shenmue III,9,"49,99€",-66%,"16,99€                    ",win,1,0,0,"19 Nov, 2020"
+21,Sleeping Dogs: Definitive Edition,9,"19,99€",-85%,"2,99€                    ",win mac,1,0,1,"14 Oct, 2014"
+22,Expansion - Hearts of Iron IV: Waking the Tiger,7,"19,99€",-50%,"9,99€                    ",win mac linux,1,1,1,"8 Mar, 2018"
+23,theHunter: Call of the Wild™ - ATV SABER 4X4,6,"3,99€",-43%,"2,27€                    ",win,1,0,0,"15 Jun, 2017"
+24,theHunter: Call of the Wild™ - 2019 Edition,9,"51,93€",-65%,"18,39€                    ",win,1,0,0,
+25,theHunter: Call of the Wild™ - Silver Ridge Peaks,6,"7,99€",-23%,"6,15€                    ",win,1,0,0,"23 Jun, 2020"
+26,Expansion - Hearts of Iron IV: La Résistance,6,"19,99€",-33%,"13,39€                    ",win mac linux,1,1,1,"25 Feb, 2020"
+27,theHunter: Call of the Wild™ - Yukon Valley,9,"7,99€",-43%,"4,55€                    ",win,1,0,0,"25 Jun, 2019"
+28,theHunter: Call of the Wild™ - Medved-Taiga,9,"7,99€",-43%,"4,55€                    ",win,1,0,0,"17 Oct, 2017"
+29,theHunter: Call of the Wild™ - 2021 Edition,9,"83,87€",-62%,"32,05€                    ",win,1,0,0,
+30,古剑奇谭三(Gujian3),9,"24,99€",-41%,"14,74€                    ",win,1,0,0,"14 Dec, 2018"
+31,Expansion - Hearts of Iron IV: Together for Victory,6,"14,99€",-50%,"7,49€                    ",win mac linux,1,1,1,"15 Dec, 2016"
+32,theHunter: Call of the Wild™ - Cuatro Colinas Game Reserve,6,"7,99€",-33%,"5,35€                    ",win,1,0,0,"10 Dec, 2019"
+33,Deus Ex: Human Revolution - Director's Cut,9,"19,99€",-85%,"2,99€                    ",win,1,0,0,"25 Oct, 2013"
+34,theHunter: Call of the Wild™ - Parque Fernando,7,"7,99€",-43%,"4,55€                    ",win,1,0,0,"13 Dec, 2018"
+35,theHunter: Call of the Wild™ - Smoking Barrels Weapon Pack,9,"3,99€",-33%,"2,67€                    ",win,1,0,0,"26 Mar, 2020"
+36,Expansion - Hearts of Iron IV: Death or Dishonor,6,"9,99€",-50%,"4,99€                    ",win mac linux,1,1,1,"14 Jun, 2017"
+37,theHunter: Call of the Wild™ - Tents & Ground Blinds,6,"3,99€",-43%,"2,27€                    ",win,1,0,0,"27 Apr, 2017"
+38,Funselektor Bundle,9,"32,98€",-21%,"25,90€                    ",win mac linux,1,1,1,
+39,theHunter: Call of the Wild™ - Weapon Pack 2,9,"3,99€",-43%,"2,27€                    ",win,1,0,0,"28 Feb, 2019"
+40,theHunter: Call of the Wild™ - Treestand & Tripod Pack,7,"3,99€",-43%,"2,27€                    ",win,1,0,0,"3 Jun, 2019"
+41,theHunter: Call of the Wild™ - High-Tech Hunting Pack,7,"3,99€",-43%,"2,27€                    ",win,1,0,0,"18 Sep, 2019"
+42,We Happy Few Digital Deluxe Edition,7,"91,57€",-76%,"21,83€                    ",win,1,0,0,
+43,theHunter: Call of the Wild™ - Weapon Pack 1,9,"3,99€",-43%,"2,27€                    ",win,1,0,0,"12 Apr, 2018"
+44,theHunter: Call of the Wild™ - Weapon Pack 3,7,"3,99€",-43%,"2,27€                    ",win,1,0,0,"1 Aug, 2019"
+45,Untitled Goose Game,9,"16,79€",-25%,"12,59€                    ",win mac,1,0,1,"23 Sep, 2020"
+46,Life is Strange - Episode 1,10,"19,99€",-80%,Free                    ,win mac linux,1,1,1,"29 Jan, 2015"
+47,Murdered: Soul Suspect,9,"19,99€",-90%,"1,99€                    ",win,1,0,0,"5 Jun, 2014"
+48,Deus Ex: Mankind Divided,7,,,                    ,win mac linux,1,1,1,"23 Aug, 2016"
+49,Life is Strange 2 Complete Season,9,"31,96€",-60%,"12,76€                    ",win mac linux,1,1,1,
+50,Life is Strange: Before the Storm,9,"16,99€",-80%,"3,39€                    ",win mac linux,1,1,1,"31 Aug, 2017"
+51,Children of Morta,9,"21,99€",-50%,"10,99€                    ",win mac linux,1,1,1,"3 Sep, 2019"
+52,theHunter: Call of the Wild™ - Duck and Cover Pack,6,"3,99€",-43%,"2,27€                    ",win,1,0,0,"27 Sep, 2018"
+53,BPM Soundtrack Edition,9,"23,38€",-40%,"13,92€                    ",win music,1,0,0,
+54,Destiny 2: Legendary Edition,6,"79,99€",-15%,"67,99€                    ",win,1,0,0,"10 Nov, 2020"
+55,War Room,7,"24,99€",-10%,"22,49€                    ",win,1,0,0,"18 Nov, 2020"
+56,BloodRayne: Terminal Cut,9,"12,49€",-34%,"8,24€                    ",win,1,0,0,"20 Nov, 2020"
+57,theHunter: Call of the Wild™ - Wild Goose Chase Gear,6,"3,99€",-43%,"2,27€                    ",win,1,0,0,"12 Jun, 2018"
+58,Supreme Commander Collection,9,"37,96€",-84%,"5,92€                    ",win,1,0,0,
+59,theHunter: Call of the Wild™ - Trophy Lodge Spring Creek Manor,7,"3,99€",-43%,"2,27€                    ",win,1,0,0,"11 Apr, 2019"
+60,theHunter: Call of the Wild™ - Saseka Safari Trophy Lodge,6,"3,99€",-43%,"2,27€                    ",win,1,0,0,"14 Nov, 2019"
+61,Melvor Idle,9,"8,19€",-25%,"6,14€                    ",win linux,1,1,0,"19 Nov, 2020"
+62,Just Cause 2,9,"14,99€",-90%,"1,49€                    ",win,1,0,0,"23 Mar, 2010"
+63,Zaccaria Pinball - VR Starter Pack,7,"44,49€",-80%,"8,82€                    ",win linux,1,1,0,
+64,Supreme Commander 2,9,"12,99€",-75%,"3,24€                    ",win,1,0,0,"2 Mar, 2010"
+65,The Deus Ex Collection,7,"88,94€",-59%,"36,32€                    ",win,1,0,0,
+66,Hearts of Iron IV: Axis Armor Pack,6,"5,99€",-50%,"2,99€                    ",win mac linux,1,1,1,"4 Jun, 2019"
+67,Space Crew,7,"19,99€",-30%,"13,99€                    ",win mac linux,1,1,1,"15 Oct, 2020"
+68,Thief™ Gold,9,"6,99€",-86%,"0,97€                    ",win,1,0,0,"22 May, 2012"
+69,Crossroads Inn Anniversary Edition,6,"24,99€",-28%,"17,99€                    ",win mac linux,1,1,1,"23 Oct, 2019"
+70,Mini Ninjas,9,"9,99€",-85%,"1,49€                    ",win,1,0,0,"9 Oct, 2009"
+71,Life is Strange 2 - Episode 2,7,"7,99€",-50%,"3,99€                    ",win mac linux,1,1,1,"24 Jan, 2019"
+72,Life is Strange 2 - Episode 3,7,"7,99€",-50%,"3,99€                    ",win mac linux,1,1,1,"9 May, 2019"
+73,Life is Strange 2 - Episode 5,7,"7,99€",-50%,"3,99€                    ",win mac linux,1,1,1,"3 Dec, 2019"
+74,Life is Strange 2 - Episode 4,6,"7,99€",-50%,"3,99€                    ",win mac linux,1,1,1,"22 Aug, 2019"
+75,Hearts of Iron IV: Allied Armor Pack,6,"6,99€",-33%,"4,68€                    ",win mac linux,1,1,1,"4 Jun, 2020"
+76,Thief™ II: The Metal Age,9,"6,99€",-86%,"0,97€                    ",win,1,0,0,"22 May, 2012"
+77,Paladins - Champions Pack,9,"29,99€",-67%,"9,90€                    ",win mac,1,0,1,"26 Apr, 2018"
+78,SMITE® - Ultimate God Pack,7,"23,99€",-67%,"7,92€                    ",win mac,1,0,1,"8 Sep, 2015"
+79,Life is Strange: Before the Storm Deluxe Edition,9,"26,98€",-82%,"4,91€                    ",win mac linux,1,1,1,
+80,Invisigun Reloaded,9,"16,79€",-90%,"1,67€                    ",win mac linux,1,1,1,"8 Feb, 2017"
+81,PowerBeatsVR - VR Fitness,9,"19,99€",-40%,"11,99€                    ",win,1,0,0,"18 Nov, 2020"
+82,Kane & Lynch 2: Dog Days,6,"9,99€",-90%,"0,99€                    ",win,1,0,0,"17 Aug, 2010"
+83,Hearts of Iron IV: Radio Pack,7,"6,99€",-50%,"3,49€                    ",win mac linux,1,1,1,"4 Jun, 2019"
+84,Brawlhalla - All Legends (Current and Future),9,"19,99€",-25%,"14,99€                    ",win mac,1,0,1,"26 Aug, 2015"
+85,Thief: Deadly Shadows,9,"8,99€",-89%,"0,98€                    ",win,1,0,0,"29 Mar, 2007"
+86,Gaia Beyond,7,"14,99€",-30%,"10,49€                    ",win,1,0,0,"20 Aug, 2020"
+87,Supreme Commander,9,"9,99€",-80%,"1,99€                    ",win,1,0,0,"28 Sep, 2011"
+88,BPM: BULLETS PER MINUTE Soundtrack,8,"6,59€",-33%,"4,41€                    ",music,0,0,0,"15 Sep, 2020"
+89,Ken Follett's The Pillars of the Earth,9,"29,99€",-80%,"5,99€                    ",win mac linux,1,1,1,"15 Aug, 2017"
+90,古剑奇谭二(GuJian2),7,"15,99€",-80%,"3,19€                    ",win,1,0,0,"7 Sep, 2017"
+91,Supreme Commander: Forged Alliance,10,"9,99€",-80%,"1,99€                    ",win,1,0,0,"28 Sep, 2011"
+92,Battlestations Collection,6,"15,98€",-88%,"1,89€                    ",win,1,0,0,
+93,Zero Hour,7,"9,99€",-10%,"8,99€                    ",win,1,0,0,"12 Aug, 2020"
+94,Tomb Raider II,9,"6,99€",-86%,"0,97€                    ",win,1,0,0,"28 Nov, 2012"
+95,AppGameKit Classic: Easy Game Development,9,"67,99€",-75%,"16,99€                    ",win mac linux,1,1,1,"21 Nov, 2014"
+96,Tomb Raider: Underworld,7,"8,99€",-89%,"0,98€                    ",win,1,0,0,"21 Nov, 2008"
+97,THIEF: The Bank Heist,6,"4,99€",-85%,"0,74€                    ",win mac,1,0,1,"7 Mar, 2014"
+98,古剑奇谭(GuJian),7,"11,99€",-80%,"2,39€                    ",win,1,0,0,"7 Sep, 2017"
+99,Frostpunk: Season Pass,6,"33,97€",-30%,"23,77€                    ",win music,1,0,0,
+100,Tomb Raider I,9,"6,99€",-86%,"0,97€                    ",win,1,0,0,"28 Nov, 2012"
+101,Tomb Raider: Legend,9,"6,99€",-86%,"0,97€                    ",win,1,0,0,"29 Mar, 2007"
+102,Hearts of Iron IV: Allied Speeches Music Pack,7,"4,99€",-33%,"3,34€                    ",win mac linux,1,1,1,"4 Jun, 2020"
+103,THIEF DLC: The Forsaken - Challenge Map,6,"4,99€",-85%,"0,74€                    ",win mac,1,0,1,"24 Feb, 2014"
+104,Music - Hearts of Iron IV: Sabaton Soundtrack Vol. 2,9,"5,99€",-50%,"2,99€                    ",win mac linux,1,1,1,"26 Jan, 2017"
+105,Apocalipsis,7,"6,99€",-75%,"1,74€                    ",win mac,1,0,1,"28 Feb, 2018"
+106,Frostpunk: The Last Autumn,7,,,                    ,win,1,0,0,"21 Jan, 2020"
+107,神舞幻想 Faith of Danschant,6,"27,99€",-80%,"5,59€                    ",win,1,0,0,"21 Dec, 2017"
+108,Rusted Warfare - RTS,10,"4,99€",-40%,"2,99€                    ",win mac linux,1,1,1,"14 Jul, 2017"
+109,Tomb Raider: Anniversary,9,"8,99€",-89%,"0,98€                    ",win,1,0,0,"5 Jun, 2007"
+110,Supreme Commander 2: Infinite War Battle Pack,9,"4,99€",-75%,"1,24€                    ",win,1,0,0,"28 Sep, 2010"
+111,Master Magistrate,9,"24,99€",-33%,"16,74€                    ",win,1,0,0,"12 Jun, 2020"
+112,Tomb Raider III,9,"6,99€",-86%,"0,97€                    ",win,1,0,0,"28 Nov, 2012"
+113,art of rally deluxe edition,9,"33,48€",-21%,"26,35€                    ",win mac linux music,1,1,1,
+114,Deus Ex: Game of the Year Edition,9,"6,99€",-86%,"0,97€                    ",win,1,0,0,"29 Mar, 2007"
+115,Tomb Raider IV: The Last Revelation,9,"6,99€",-86%,"0,97€                    ",win,1,0,0,"28 Nov, 2012"
+116,Kane & Lynch Collection,6,"27,95€",-90%,"2,68€                    ",win,1,0,0,
+117,THIEF DLC: Booster Pack - Ghost,6,"0,99€",-52%,"0,48€                    ",win mac,1,0,1,"24 Feb, 2014"
+118,Tomb Raider V: Chronicles,7,"6,99€",-86%,"0,97€                    ",win,1,0,0,"28 Nov, 2012"
+119,Brain Break,8,"3,29€",-10%,"2,96€                    ",win,1,0,0,"18 Nov, 2020"
+120,Frostpunk: On The Edge,5,,,                    ,win,1,0,0,"20 Aug, 2020"
+121,Tomb Raider VI: The Angel of Darkness,6,"6,99€",-86%,"0,97€                    ",win,1,0,0,"28 Nov, 2012"
+122,Steel Division 2 - Nemesis #2 - Lvov Offensive,8,"4,99€",-20%,"3,99€                    ",win,1,0,0,"19 Nov, 2020"
+123,Skyward Collapse,6,"4,99€",-75%,"1,24€                    ",win mac linux,1,1,1,"23 May, 2013"
+124,Kane and Lynch: Dead Men™,6,"6,99€",-86%,"0,97€                    ",win,1,0,0,"13 Dec, 2007"
+,Name,Score,Original Price,Discount,Discounted Price,Win,Linux,Mac,Release Date
+0,Counter-Strike: Global Offensive,9,Free to Play,,Free to Play,1,1,1,"21 Aug, 2012"
+1,theHunter: Call of the Wild™,9,"19,99€",-70%,"5,99€                    ",1,0,0,"16 Feb, 2017"
+2,Crusader Kings III,9,"49,99€",-20%,"39,99€                    ",1,1,1,"1 Sep, 2020"
+3,Hearts of Iron IV,9,"39,99€",-75%,"9,99€                    ",1,1,1,"6 Jun, 2016"
+4,Black Desert Online,7,"9,99€",-70%,"2,99€                    ",1,0,0,"24 May, 2017"
+5,Titanfall® 2,10,"29,99€",-67%,"9,89€                    ",1,0,0,"18 Jun, 2020"
+6,Among Us,10,"3,99€",-20%,"3,19€                    ",1,0,0,"16 Nov, 2018"
+7,We Happy Few,7,"59,99€",-85%,"8,99€                    ",1,0,0,"10 Aug, 2018"
+8,Dota 2,9,Free to Play,,Free to Play,1,1,1,"9 Jul, 2013"
+9,Total War: WARHAMMER II,9,"59,99€",-66%,"20,39€                    ",1,1,1,"28 Sep, 2017"
+10,Grand Theft Auto V,9,"29,99€",-50%,"14,99€                    ",1,0,0,"13 Apr, 2015"
+11,Phasmophobia,10,"11,59€",-10%,"10,43€                    ",1,0,0,"18 Sep, 2020"
+12,Noita,10,"18,99€",-25%,"14,24€                    ",1,0,0,"15 Oct, 2020"
+13,theHunter: Call of the Wild™- Complete Collection,9,"115,81€",-62%,"43,86€                    ",1,0,0,
+14,Untitled Goose Game,9,"16,79€",-25%,"12,59€                    ",1,0,1,"23 Sep, 2020"
+15,Team Fortress 2,9,Free to Play,,Free to Play,1,1,1,"10 Oct, 2007"
+16,PLAYERUNKNOWN'S BATTLEGROUNDS,6,"29,99€",-50%,"14,99€                    ",1,0,0,"21 Dec, 2017"
+17,Hearts of Iron IV: Mobilization Pack,9,"104,95€",-64%,"38,20€                    ",1,1,1,
+18,Titanfall Collection,10,"49,98€",-71%,"14,30€                    ",1,0,0,
+19,Command & Conquer™ Remastered Collection,9,"19,99€",-35%,"12,99€                    ",1,0,0,"5 Jun, 2020"
+20,Tom Clancy's Rainbow Six® Siege,9,"19,99€",-60%,"7,99€                    ",1,0,0,"1 Dec, 2015"
+21,Raft,9,"19,99€",-33%,"13,39€                    ",1,0,0,"23 May, 2018"
+22,EA SPORTS™ FIFA 21,7,"59,99€",-42%,"34,79€                    ",1,0,0,"8 Oct, 2020"
+23,Hades,10,"20,99€",-20%,"16,79€                    ",1,0,1,"17 Sep, 2020"
+24,Red Dead Redemption 2,7,"59,99€",-33%,"40,19€                    ",1,0,0,"5 Dec, 2019"
+25,Slasher's Keep,9,"13,99€",-25%,"10,49€                    ",1,0,0,"19 Nov, 2020"
+26,Fall Guys: Ultimate Knockout,9,"19,99€",-20%,"15,99€                    ",1,0,0,"3 Aug, 2020"
+27,Sea of Thieves,9,"39,99€",-25%,"29,99€                    ",1,0,0,"3 Jun, 2020"
+28,Rust,9,"33,99€",-33%,"22,77€                    ",1,0,1,"8 Feb, 2018"
+29,Marvel's Avengers,6,"59,99€",-50%,"29,99€                    ",1,0,0,"4 Sep, 2020"
+30,Euro Truck Simulator 2,10,"19,99€",-75%,"4,99€                    ",1,1,1,"12 Oct, 2012"
+31,Total War: WARHAMMER II - The Twisted & The Twilight,,"9,99€",-10%,"8,99€                    ",1,1,1,"3 Dec, 2020"
+32,Halo: The Master Chief Collection,9,"39,99€",-35%,"25,99€                    ",1,0,0,"3 Dec, 2019"
+33,Satisfactory,10,"29,99€",-20%,"23,99€                    ",1,0,0,"8 Jun, 2020"
+34,Destiny 2: Legendary Edition,6,"79,99€",-15%,"67,99€                    ",1,0,0,"10 Nov, 2020"
+35,PAYDAY 2,9,"9,99€",-50%,"4,99€                    ",1,1,0,"13 Aug, 2013"
+36,theHunter: Call of the Wild™ - 2019 Edition,9,"51,93€",-68%,"16,65€                    ",1,0,0,
+37,Fallout 76,7,"39,99€",-67%,"13,19€                    ",1,0,0,"14 Apr, 2020"
+38,The Sims™ 4,9,"39,99€",-88%,"4,79€                    ",1,0,0,"18 Jun, 2020"
+39,Farming Simulator 19,9,"19,99€",-30%,"13,99€                    ",1,0,1,"19 Nov, 2018"
+40,DayZ,6,"39,99€",-40%,"23,99€                    ",1,0,0,"13 Dec, 2018"
+41,Warhammer: Vermintide 2,9,"27,99€",-75%,"6,99€                    ",1,0,0,"8 Mar, 2018"
+42,theHunter: Call of the Wild™ - Yukon Valley,9,"7,99€",-50%,"3,99€                    ",1,0,0,"25 Jun, 2019"
+43,Titanfall­™,7,"19,99€",-60%,"7,99€                    ",1,0,0,"20 Nov, 2020"
+44,The Forest,9,"16,79€",-50%,"8,39€                    ",1,0,0,"30 Apr, 2018"
+45,Age of Empires II: Definitive Edition,9,"19,99€",-50%,"9,99€                    ",1,0,0,"14 Nov, 2019"
+46,Sid Meier’s Civilization® VI,9,"59,99€",-75%,"14,99€                    ",1,1,1,"20 Oct, 2016"
+47,Dead by Daylight,9,"19,99€",-60%,"7,99€                    ",1,0,0,"14 Jun, 2016"
+48,theHunter: Call of the Wild™ - Medved-Taiga,9,"7,99€",-50%,"3,99€                    ",1,0,0,"17 Oct, 2017"
+49,theHunter: Call of the Wild™ - ATV SABER 4X4,6,"3,99€",-50%,"1,99€                    ",1,0,0,"15 Jun, 2017"
+50,We Happy Few Digital Deluxe Edition,7,"91,57€",-76%,"21,82€                    ",1,0,0,
+51,art of rally,9,"20,99€",-20%,"16,79€                    ",1,1,1,"23 Sep, 2020"
+52,Metro Exodus,9,"39,99€",-60%,"15,99€                    ",1,0,0,"14 Feb, 2020"
+53,Grand Theft Auto V: Premium Online Edition,9,"39,98€",-60%,"15,98€                    ",1,0,0,
+54,Thief,7,"19,99€",-85%,"2,99€                    ",1,0,1,"27 Feb, 2014"
+55,Expansion - Hearts of Iron IV: Man the Guns,6,"19,99€",-50%,"9,99€                    ",1,1,1,"28 Feb, 2019"
+56,CarX Drift Racing Online,9,"12,49€",-55%,"5,62€                    ",1,0,0,"17 Nov, 2017"
+57,Haydee 2,9,"20,99€",-10%,"18,89€                    ",1,0,0,"23 Nov, 2020"
+58,Borderlands 3,9,"59,99€",-67%,"19,79€                    ",1,0,0,"13 Mar, 2020"
+59,Control Ultimate Edition,9,"39,99€",-50%,"19,99€                    ",1,0,0,"27 Aug, 2020"
+60,F1® 2020,9,"54,99€",-50%,"27,49€                    ",1,0,0,"9 Jul, 2020"
+61,Assetto Corsa,9,"19,99€",-80%,"3,99€                    ",1,0,0,"19 Dec, 2014"
+62,Cities: Skylines,9,"27,99€",-75%,"6,99€                    ",1,1,1,"10 Mar, 2015"
+63,theHunter: Call of the Wild™ - Silver Ridge Peaks,6,"7,99€",-25%,"5,99€                    ",1,0,0,"23 Jun, 2020"
+64,Hell Let Loose,9,"29,99€",-25%,"22,49€                    ",1,0,0,"6 Jun, 2019"
+65,Elite Dangerous,7,"24,99€",-75%,"6,24€                    ",1,0,0,"2 Apr, 2015"
+66,American Truck Simulator,10,"19,99€",-75%,"4,99€                    ",1,1,1,"2 Feb, 2016"
+67,Deep Rock Galactic,10,"29,99€",-30%,"20,99€                    ",1,0,0,"13 May, 2020"
+68,Sleeping Dogs: Definitive Edition,9,"19,99€",-85%,"2,99€                    ",1,0,1,"14 Oct, 2014"
+69,Expansion - Hearts of Iron IV: Waking the Tiger,7,"19,99€",-50%,"9,99€                    ",1,1,1,"8 Mar, 2018"
+70,Mafia: Definitive Edition,9,"39,99€",-25%,"29,99€                    ",1,0,0,"24 Sep, 2020"
+71,DARK SOULS™ III,9,"59,99€",-75%,"14,99€                    ",1,0,0,"11 Apr, 2016"
+72,Sky Haven,,"22,99€",-15%,"19,54€                    ",1,1,1,"25 Nov, 2020"
+73,Marvel's Avengers Deluxe Edition,6,"79,98€",-50%,"39,98€                    ",1,0,0,
+74,Medieval Dynasty,9,"24,99€",-20%,"19,99€                    ",1,0,0,"17 Sep, 2020"
+75,Stellaris,9,"39,99€",-75%,"9,99€                    ",1,1,1,"9 May, 2016"
+76,Wreckfest,9,"29,99€",-50%,"14,99€                    ",1,0,0,"14 Jun, 2018"
+77,Age of Empires III: Definitive Edition,6,"19,99€",-20%,"15,99€                    ",1,0,0,"15 Oct, 2020"
+78,BELOW,7,"21,99€",-60%,"8,79€                    ",1,0,0,"14 Dec, 2018"
+79,DiRT Rally 2.0,9,"19,99€",-75%,"4,99€                    ",1,0,0,"25 Feb, 2019"
+80,Terraria,10,"9,99€",-50%,"4,99€                    ",1,1,1,"16 May, 2011"
+81,theHunter: Call of the Wild™ - 2021 Edition,9,"83,87€",-65%,"29,13€                    ",1,0,0,
+82,BONEWORKS,9,"24,99€",-20%,"19,99€                    ",1,0,0,"10 Dec, 2019"
+83,ASTRONEER,9,"27,99€",-35%,"18,19€                    ",1,0,0,"5 Feb, 2019"
+84,IL-2 Sturmovik: Battle of Stalingrad,7,"46,99€",-85%,"7,04€                    ",1,0,0,"22 Oct, 2014"
+85,Left 4 Dead 2,10,"8,19€",-80%,"1,63€                    ",1,1,1,"16 Nov, 2009"
+86,theHunter: Call of the Wild™ - Cuatro Colinas Game Reserve,6,"7,99€",-40%,"4,79€                    ",1,0,0,"10 Dec, 2019"
+87,MORDHAU,9,"24,99€",-25%,"18,74€                    ",1,0,0,"29 Apr, 2019"
+88,3DMark,9,"24,99€",-85%,"3,74€                    ",1,0,0,"12 Feb, 2013"
+89,STAR WARS™: Squadrons,7,"39,99€",-40%,"23,99€                    ",1,0,0,"1 Oct, 2020"
+90,Sid Meier's Civilization V: Complete,10,"136,84€",-78%,"30,31€                    ",1,1,1,
+91,RimWorld,10,"29,99€",-10%,"26,99€                    ",1,1,1,"17 Oct, 2018"
+92,theHunter: Call of the Wild™ - Tents & Ground Blinds,6,"3,99€",-50%,"1,99€                    ",1,0,0,"27 Apr, 2017"
+93,theHunter: Call of the Wild™ - Smoking Barrels Weapon Pack,9,"3,99€",-40%,"2,39€                    ",1,0,0,"26 Mar, 2020"
+94,Wasteland 3,9,"59,99€",-30%,"41,99€                    ",1,0,0,"28 Aug, 2020"
+95,theHunter: Call of the Wild™ - Weapon Pack 1,9,"3,99€",-50%,"1,99€                    ",1,0,0,"12 Apr, 2018"
+96,Bloons TD 6,10,"8,19€",-90%,"0,81€                    ",1,0,1,"17 Dec, 2018"
+97,Expansion - Hearts of Iron IV: La Résistance,6,"19,99€",-33%,"13,39€                    ",1,1,1,"25 Feb, 2020"
+98,theHunter: Call of the Wild™ - Weapon Pack 2,9,"3,99€",-50%,"1,99€                    ",1,0,0,"28 Feb, 2019"
+99,Expansion - Hearts of Iron IV: Together for Victory,6,"14,99€",-50%,"7,49€                    ",1,1,1,"15 Dec, 2016"
+,Name,Score,Original Price,Discount,Discounted Price,Win,Linux,Mac,Release Date
+0,Counter-Strike: Global Offensive,9,Free to Play,,Free to Play,1,1,1,"21 Aug, 2012"
+1,theHunter: Call of the Wild™,9,"19,99€",-70%,"5,99€                    ",1,0,0,"16 Feb, 2017"
+2,Hearts of Iron IV,9,"39,99€",-75%,"9,99€                    ",1,1,1,"6 Jun, 2016"
+3,Crusader Kings III,9,"49,99€",-20%,"39,99€                    ",1,1,1,"1 Sep, 2020"
+4,Black Desert Online,7,"9,99€",-70%,"2,99€                    ",1,0,0,"24 May, 2017"
+5,Titanfall® 2,10,"29,99€",-67%,"9,89€                    ",1,0,0,"18 Jun, 2020"
+6,Among Us,10,"3,99€",-20%,"3,19€                    ",1,0,0,"16 Nov, 2018"
+7,We Happy Few,7,"59,99€",-85%,"8,99€                    ",1,0,0,"10 Aug, 2018"
+8,Grand Theft Auto V,9,"29,99€",-50%,"14,99€                    ",1,0,0,"13 Apr, 2015"
+9,Total War: WARHAMMER II,9,"59,99€",-66%,"20,39€                    ",1,1,1,"28 Sep, 2017"
+10,Dota 2,9,Free to Play,,Free to Play,1,1,1,"9 Jul, 2013"
+11,Phasmophobia,10,"11,59€",-10%,"10,43€                    ",1,0,0,"18 Sep, 2020"
+12,Noita,10,"18,99€",-25%,"14,24€                    ",1,0,0,"15 Oct, 2020"
+13,Team Fortress 2,9,Free to Play,,Free to Play,1,1,1,"10 Oct, 2007"
+14,theHunter: Call of the Wild™- Complete Collection,9,"115,81€",-62%,"43,86€                    ",1,0,0,
+15,DOOM Eternal,9,"59,99€",-67%,"19,79€                    ",1,0,0,"19 Mar, 2020"
+16,Untitled Goose Game,9,"16,79€",-25%,"12,59€                    ",1,0,1,"23 Sep, 2020"
+17,PLAYERUNKNOWN'S BATTLEGROUNDS,6,"29,99€",-50%,"14,99€                    ",1,0,0,"21 Dec, 2017"
+18,Red Dead Redemption 2,7,"59,99€",-33%,"40,19€                    ",1,0,0,"5 Dec, 2019"
+19,Tom Clancy's Rainbow Six® Siege,9,"19,99€",-60%,"7,99€                    ",1,0,0,"1 Dec, 2015"
+20,Sea of Thieves,9,"39,99€",-25%,"29,99€                    ",1,0,0,"3 Jun, 2020"
+21,Hades,10,"20,99€",-20%,"16,79€                    ",1,0,1,"17 Sep, 2020"
+22,Hearts of Iron IV: Mobilization Pack,9,"104,95€",-64%,"38,20€                    ",1,1,1,
+23,Command & Conquer™ Remastered Collection,9,"19,99€",-35%,"12,99€                    ",1,0,0,"5 Jun, 2020"
+24,Rust,9,"33,99€",-33%,"22,77€                    ",1,0,1,"8 Feb, 2018"
+25,Halo: The Master Chief Collection,9,"39,99€",-35%,"25,99€                    ",1,0,0,"3 Dec, 2019"
+26,Satisfactory,10,"29,99€",-20%,"23,99€                    ",1,0,0,"8 Jun, 2020"
+27,The Sims™ 4,9,"39,99€",-88%,"4,79€                    ",1,0,0,"18 Jun, 2020"
+28,Raft,9,"19,99€",-33%,"13,39€                    ",1,0,0,"23 May, 2018"
+29,EA SPORTS™ FIFA 21,7,"59,99€",-42%,"34,79€                    ",1,0,0,"8 Oct, 2020"
+30,Fall Guys: Ultimate Knockout,9,"19,99€",-20%,"15,99€                    ",1,0,0,"3 Aug, 2020"
+31,Euro Truck Simulator 2,10,"19,99€",-75%,"4,99€                    ",1,1,1,"12 Oct, 2012"
+32,Titanfall Collection,10,"49,98€",-71%,"14,30€                    ",1,0,0,
+33,Total War: WARHAMMER II - The Twisted & The Twilight,,"9,99€",-10%,"8,99€                    ",1,1,1,"3 Dec, 2020"
+34,Stellaris,9,"39,99€",-75%,"9,99€                    ",1,1,1,"9 May, 2016"
+35,Metro Exodus,9,"39,99€",-60%,"15,99€                    ",1,0,0,"14 Feb, 2020"
+36,Slasher's Keep,9,"13,99€",-25%,"10,49€                    ",1,0,0,"19 Nov, 2020"
+37,Marvel's Avengers,6,"59,99€",-50%,"29,99€                    ",1,0,0,"4 Sep, 2020"
+38,PAYDAY 2,9,"9,99€",-50%,"4,99€                    ",1,1,0,"13 Aug, 2013"
+39,DayZ,6,"39,99€",-40%,"23,99€                    ",1,0,0,"13 Dec, 2018"
+40,Destiny 2: Legendary Edition,6,"79,99€",-15%,"67,99€                    ",1,0,0,"10 Nov, 2020"
+41,Fallout 76,7,"39,99€",-67%,"13,19€                    ",1,0,0,"14 Apr, 2020"
+42,American Truck Simulator,10,"19,99€",-75%,"4,99€                    ",1,1,1,"2 Feb, 2016"
+43,Age of Empires II: Definitive Edition,9,"19,99€",-50%,"9,99€                    ",1,0,0,"14 Nov, 2019"
+44,Dead by Daylight,9,"19,99€",-60%,"7,99€                    ",1,0,0,"14 Jun, 2016"
+45,Warhammer: Vermintide 2,9,"27,99€",-75%,"6,99€                    ",1,0,0,"8 Mar, 2018"
+46,Borderlands 3,9,"59,99€",-67%,"19,79€                    ",1,0,0,"13 Mar, 2020"
+47,theHunter: Call of the Wild™ - Yukon Valley,9,"7,99€",-50%,"3,99€                    ",1,0,0,"25 Jun, 2019"
+48,Control Ultimate Edition,9,"39,99€",-50%,"19,99€                    ",1,0,0,"27 Aug, 2020"
+49,Mafia: Definitive Edition,9,"39,99€",-25%,"29,99€                    ",1,0,0,"24 Sep, 2020"
+50,Sid Meier’s Civilization® VI,9,"59,99€",-75%,"14,99€                    ",1,1,1,"20 Oct, 2016"
+51,Farming Simulator 19,9,"19,99€",-30%,"13,99€                    ",1,0,1,"19 Nov, 2018"
+52,theHunter: Call of the Wild™ - 2021 Edition,9,"83,87€",-65%,"29,13€                    ",1,0,0,
+53,Titanfall­™,7,"19,99€",-60%,"7,99€                    ",1,0,0,"20 Nov, 2020"
+54,theHunter: Call of the Wild™ - ATV SABER 4X4,6,"3,99€",-50%,"1,99€                    ",1,0,0,"15 Jun, 2017"
+55,DARK SOULS™ III,9,"59,99€",-75%,"14,99€                    ",1,0,0,"11 Apr, 2016"
+56,theHunter: Call of the Wild™ - 2019 Edition,9,"51,93€",-68%,"16,65€                    ",1,0,0,
+57,STAR WARS Jedi: Fallen Order™,9,"59,99€",-60%,"23,99€                    ",1,0,0,"15 Nov, 2019"
+58,HIVESWAP: ACT 2,,"12,49€",-10%,"11,24€                    ",1,1,1,"25 Nov, 2020"
+59,theHunter: Call of the Wild™ - Medved-Taiga,9,"7,99€",-50%,"3,99€                    ",1,0,0,"17 Oct, 2017"
+60,Grand Theft Auto V: Premium Online Edition,9,"39,98€",-60%,"15,98€                    ",1,0,0,
+61,Hell Let Loose,9,"29,99€",-25%,"22,49€                    ",1,0,0,"6 Jun, 2019"
+62,The Forest,9,"16,79€",-50%,"8,39€                    ",1,0,0,"30 Apr, 2018"
+63,Expansion - Hearts of Iron IV: Man the Guns,6,"19,99€",-50%,"9,99€                    ",1,1,1,"28 Feb, 2019"
+64,Age of Empires Definitive Collection,9,"59,97€",-61%,"23,22€                    ",1,0,0,
+65,Age of Empires III: Definitive Edition,6,"19,99€",-20%,"15,99€                    ",1,0,0,"15 Oct, 2020"
+66,BONEWORKS,9,"24,99€",-20%,"19,99€                    ",1,0,0,"10 Dec, 2019"
+67,Thief,7,"19,99€",-85%,"2,99€                    ",1,0,1,"27 Feb, 2014"
+68,Assetto Corsa Competizione,9,"39,99€",-60%,"15,99€                    ",1,0,0,"29 May, 2019"
+69,CarX Drift Racing Online,9,"12,49€",-55%,"5,62€                    ",1,0,0,"17 Nov, 2017"
+70,art of rally,9,"20,99€",-20%,"16,79€                    ",1,1,1,"23 Sep, 2020"
+71,Wreckfest,9,"29,99€",-50%,"14,99€                    ",1,0,0,"14 Jun, 2018"
+72,We Happy Few Digital Deluxe Edition,7,"91,57€",-76%,"21,82€                    ",1,0,0,
+73,F1® 2020,9,"54,99€",-50%,"27,49€                    ",1,0,0,"9 Jul, 2020"
+74,STAR WARS™: Squadrons,7,"39,99€",-40%,"23,99€                    ",1,0,0,"1 Oct, 2020"
+75,Assetto Corsa,9,"19,99€",-80%,"3,99€                    ",1,0,0,"19 Dec, 2014"
+76,The Witcher® 3: Wild Hunt,10,"29,99€",-70%,"8,99€                    ",1,0,0,"18 May, 2015"
+77,Deep Rock Galactic,10,"29,99€",-30%,"20,99€                    ",1,0,0,"13 May, 2020"
+78,Elite Dangerous,7,"24,99€",-75%,"6,24€                    ",1,0,0,"2 Apr, 2015"
+79,theHunter: Call of the Wild™ - Silver Ridge Peaks,6,"7,99€",-25%,"5,99€                    ",1,0,0,"23 Jun, 2020"
+80,Terraria,10,"9,99€",-50%,"4,99€                    ",1,1,1,"16 May, 2011"
+81,Cities: Skylines,9,"27,99€",-75%,"6,99€                    ",1,1,1,"10 Mar, 2015"
+82,DiRT Rally 2.0,9,"19,99€",-75%,"4,99€                    ",1,0,0,"25 Feb, 2019"
+83,Haydee 2,9,"20,99€",-10%,"18,89€                    ",1,0,0,"23 Nov, 2020"
+84,Total War: WARHAMMER,7,"59,99€",-75%,"14,99€                    ",1,1,1,"24 May, 2016"
+85,TEKKEN 7,9,"39,99€",-75%,"9,99€                    ",1,0,0,"1 Jun, 2017"
+86,Pavlov VR,9,"20,99€",-40%,"12,59€                    ",1,0,0,"27 Feb, 2017"
+87,Stardew Valley,10,"13,99€",-30%,"9,79€                    ",1,1,1,"26 Feb, 2016"
+88,Expansion - Hearts of Iron IV: Waking the Tiger,7,"19,99€",-50%,"9,99€                    ",1,1,1,"8 Mar, 2018"
+89,IL-2 Sturmovik: Battle of Stalingrad,7,"46,99€",-85%,"7,04€                    ",1,0,0,"22 Oct, 2014"
+90,Medieval Dynasty,9,"24,99€",-20%,"19,99€                    ",1,0,0,"17 Sep, 2020"
+91,Sky Haven,6,"22,99€",-15%,"19,54€                    ",1,1,1,"25 Nov, 2020"
+92,Marvel's Avengers Deluxe Edition,6,"79,98€",-50%,"39,98€                    ",1,0,0,
+93,Fallout 4,7,"29,99€",-70%,"8,99€                    ",1,0,0,"10 Nov, 2015"
+94,Sleeping Dogs: Definitive Edition,9,"19,99€",-85%,"2,99€                    ",1,0,1,"14 Oct, 2014"
+95,Hunt: Showdown,9,"39,99€",-50%,"19,99€                    ",1,0,0,"27 Aug, 2019"
+96,7 Days to Die,9,"22,99€",-66%,"7,81€                    ",1,1,1,"13 Dec, 2013"
+97,ASTRONEER,9,"27,99€",-35%,"18,19€                    ",1,0,0,"5 Feb, 2019"
+98,BELOW,7,"21,99€",-60%,"8,79€                    ",1,0,0,"14 Dec, 2018"
+99,The Jackbox Party Pack 3,10,"22,99€",-35%,"14,94€                    ",1,1,1,"17 Oct, 2016"
+100,Left 4 Dead 2,10,"8,19€",-80%,"1,63€                    ",1,1,1,"16 Nov, 2009"
+101,Total War: THREE KINGDOMS,9,"59,99€",-33%,"40,19€                    ",1,1,1,"23 May, 2019"
+102,Spyro™ Reignited Trilogy,10,"39,99€",-50%,"19,99€                    ",1,0,0,"3 Sep, 2019"
+103,MORDHAU,9,"24,99€",-25%,"18,74€                    ",1,0,0,"29 Apr, 2019"
+104,theHunter: Call of the Wild™ - Cuatro Colinas Game Reserve,6,"7,99€",-40%,"4,79€                    ",1,0,0,"10 Dec, 2019"
+105,3DMark,9,"24,99€",-85%,"3,74€                    ",1,0,0,"12 Feb, 2013"
+106,Bloons TD 6,10,"8,19€",-90%,"0,81€                    ",1,0,1,"17 Dec, 2018"
+107,theHunter: Call of the Wild™ - Smoking Barrels Weapon Pack,9,"3,99€",-40%,"2,39€                    ",1,0,0,"26 Mar, 2020"
+108,Monster Hunter: World,9,"29,99€",-34%,"19,79€                    ",1,0,0,"9 Aug, 2018"
+109,RimWorld,10,"29,99€",-10%,"26,99€                    ",1,1,1,"17 Oct, 2018"
+110,theHunter: Call of the Wild™ - Tents & Ground Blinds,6,"3,99€",-50%,"1,99€                    ",1,0,0,"27 Apr, 2017"
+111,theHunter: Call of the Wild™ - Weapon Pack 2,9,"3,99€",-50%,"1,99€                    ",1,0,0,"28 Feb, 2019"
+112,Sekiro™: Shadows Die Twice - GOTY Edition,9,"59,99€",-35%,"38,99€                    ",1,0,0,"21 Mar, 2019"
+113,Children of Morta,9,"21,99€",-50%,"10,99€                    ",1,1,1,"3 Sep, 2019"
+114,theHunter: Call of the Wild™ - Parque Fernando,7,"7,99€",-50%,"3,99€                    ",1,0,0,"13 Dec, 2018"
+115,theHunter: Call of the Wild™ - Weapon Pack 1,9,"3,99€",-50%,"1,99€                    ",1,0,0,"12 Apr, 2018"
+116,Sid Meier's Civilization V: Complete,10,"136,84€",-78%,"30,31€                    ",1,1,1,
+117,Generation Zero®,6,"24,99€",-63%,"9,24€                    ",1,0,0,"26 Mar, 2019"
+118,Expansion - Hearts of Iron IV: La Résistance,6,"19,99€",-33%,"13,39€                    ",1,1,1,"25 Feb, 2020"
+119,Expansion - Hearts of Iron IV: Together for Victory,6,"14,99€",-50%,"7,49€                    ",1,1,1,"15 Dec, 2016"
+120,Mortal Kombat 11,9,"49,99€",-70%,"14,99€                    ",1,0,0,"23 Apr, 2019"
+121,The Elder Scrolls V: Skyrim Special Edition,9,"39,99€",-60%,"15,99€                    ",1,0,0,"27 Oct, 2016"
+122,Post Scriptum,9,"28,--€",-25%,"21,--€                    ",1,0,0,"9 Aug, 2018"
+123,Ultimate Chicken Horse,10,"12,49€",-45%,"6,86€                    ",1,1,1,"4 Mar, 2016"
+124,Resident Evil 3,7,"59,99€",-67%,"19,79€                    ",1,0,0,"2 Apr, 2020"
+,Name,Score,Original Price,Discount,Discounted Price,Win,Linux,Mac,Release Date
+0,Counter-Strike: Global Offensive,9,Free to Play,,Free to Play,1,1,1,"21 Aug, 2012"
+1,theHunter: Call of the Wild™,9,"19,99€",-70%,"5,99€",1,0,0,"16 Feb, 2017"
+2,Hearts of Iron IV,9,"39,99€",-75%,"9,99€",1,1,1,"6 Jun, 2016"
+3,Crusader Kings III,9,"49,99€",-20%,"39,99€",1,1,1,"1 Sep, 2020"
+4,Black Desert Online,7,"9,99€",-70%,"2,99€",1,0,0,"24 May, 2017"
+5,Titanfall® 2,10,"29,99€",-67%,"9,89€",1,0,0,"18 Jun, 2020"
+6,Among Us,10,"3,99€",-20%,"3,19€",1,0,0,"16 Nov, 2018"
+7,We Happy Few,7,"59,99€",-85%,"8,99€",1,0,0,"10 Aug, 2018"
+8,Grand Theft Auto V,9,"29,99€",-50%,"14,99€",1,0,0,"13 Apr, 2015"
+9,Total War: WARHAMMER II,9,"59,99€",-66%,"20,39€",1,1,1,"28 Sep, 2017"
+10,Dota 2,9,Free to Play,,Free to Play,1,1,1,"9 Jul, 2013"
+11,Phasmophobia,10,"11,59€",-10%,"10,43€",1,0,0,"18 Sep, 2020"
+12,Noita,10,"18,99€",-25%,"14,24€",1,0,0,"15 Oct, 2020"
+13,Team Fortress 2,9,Free to Play,,Free to Play,1,1,1,"10 Oct, 2007"
+14,theHunter: Call of the Wild™- Complete Collection,9,"115,81€",-62%,"43,86€",1,0,0,
+15,DOOM Eternal,9,"59,99€",-67%,"19,79€",1,0,0,"19 Mar, 2020"
+16,Untitled Goose Game,9,"16,79€",-25%,"12,59€",1,0,1,"23 Sep, 2020"
+17,PLAYERUNKNOWN'S BATTLEGROUNDS,6,"29,99€",-50%,"14,99€",1,0,0,"21 Dec, 2017"
+18,Red Dead Redemption 2,7,"59,99€",-33%,"40,19€",1,0,0,"5 Dec, 2019"
+19,Tom Clancy's Rainbow Six® Siege,9,"19,99€",-60%,"7,99€",1,0,0,"1 Dec, 2015"
+20,Sea of Thieves,9,"39,99€",-25%,"29,99€",1,0,0,"3 Jun, 2020"
+21,Hades,10,"20,99€",-20%,"16,79€",1,0,1,"17 Sep, 2020"
+22,Hearts of Iron IV: Mobilization Pack,9,"104,95€",-64%,"38,20€",1,1,1,
+23,Command & Conquer™ Remastered Collection,9,"19,99€",-35%,"12,99€",1,0,0,"5 Jun, 2020"
+24,Rust,9,"33,99€",-33%,"22,77€",1,0,1,"8 Feb, 2018"
+25,Halo: The Master Chief Collection,9,"39,99€",-35%,"25,99€",1,0,0,"3 Dec, 2019"
+26,Satisfactory,10,"29,99€",-20%,"23,99€",1,0,0,"8 Jun, 2020"
+27,The Sims™ 4,9,"39,99€",-88%,"4,79€",1,0,0,"18 Jun, 2020"
+28,Raft,9,"19,99€",-33%,"13,39€",1,0,0,"23 May, 2018"
+29,EA SPORTS™ FIFA 21,7,"59,99€",-42%,"34,79€",1,0,0,"8 Oct, 2020"
+30,Fall Guys: Ultimate Knockout,9,"19,99€",-20%,"15,99€",1,0,0,"3 Aug, 2020"
+31,Euro Truck Simulator 2,10,"19,99€",-75%,"4,99€",1,1,1,"12 Oct, 2012"
+32,Titanfall Collection,10,"49,98€",-71%,"14,30€",1,0,0,
+33,Total War: WARHAMMER II - The Twisted & The Twilight,,"9,99€",-10%,"8,99€",1,1,1,"3 Dec, 2020"
+34,Stellaris,9,"39,99€",-75%,"9,99€",1,1,1,"9 May, 2016"
+35,Metro Exodus,9,"39,99€",-60%,"15,99€",1,0,0,"14 Feb, 2020"
+36,Slasher's Keep,9,"13,99€",-25%,"10,49€",1,0,0,"19 Nov, 2020"
+37,Marvel's Avengers,6,"59,99€",-50%,"29,99€",1,0,0,"4 Sep, 2020"
+38,PAYDAY 2,9,"9,99€",-50%,"4,99€",1,1,0,"13 Aug, 2013"
+39,DayZ,6,"39,99€",-40%,"23,99€",1,0,0,"13 Dec, 2018"
+40,Destiny 2: Legendary Edition,6,"79,99€",-15%,"67,99€",1,0,0,"10 Nov, 2020"
+41,Fallout 76,7,"39,99€",-67%,"13,19€",1,0,0,"14 Apr, 2020"
+42,American Truck Simulator,10,"19,99€",-75%,"4,99€",1,1,1,"2 Feb, 2016"
+43,Age of Empires II: Definitive Edition,9,"19,99€",-50%,"9,99€",1,0,0,"14 Nov, 2019"
+44,Dead by Daylight,9,"19,99€",-60%,"7,99€",1,0,0,"14 Jun, 2016"
+45,Warhammer: Vermintide 2,9,"27,99€",-75%,"6,99€",1,0,0,"8 Mar, 2018"
+46,Borderlands 3,9,"59,99€",-67%,"19,79€",1,0,0,"13 Mar, 2020"
+47,theHunter: Call of the Wild™ - Yukon Valley,9,"7,99€",-50%,"3,99€",1,0,0,"25 Jun, 2019"
+48,Control Ultimate Edition,9,"39,99€",-50%,"19,99€",1,0,0,"27 Aug, 2020"
+49,Mafia: Definitive Edition,9,"39,99€",-25%,"29,99€",1,0,0,"24 Sep, 2020"
+50,Sid Meier’s Civilization® VI,9,"59,99€",-75%,"14,99€",1,1,1,"20 Oct, 2016"
+51,Farming Simulator 19,9,"19,99€",-30%,"13,99€",1,0,1,"19 Nov, 2018"
+52,theHunter: Call of the Wild™ - 2021 Edition,9,"83,87€",-65%,"29,13€",1,0,0,
+53,Titanfall­™,7,"19,99€",-60%,"7,99€",1,0,0,"20 Nov, 2020"
+54,theHunter: Call of the Wild™ - ATV SABER 4X4,6,"3,99€",-50%,"1,99€",1,0,0,"15 Jun, 2017"
+55,DARK SOULS™ III,9,"59,99€",-75%,"14,99€",1,0,0,"11 Apr, 2016"
+56,theHunter: Call of the Wild™ - 2019 Edition,9,"51,93€",-68%,"16,65€",1,0,0,
+57,STAR WARS Jedi: Fallen Order™,9,"59,99€",-60%,"23,99€",1,0,0,"15 Nov, 2019"
+58,HIVESWAP: ACT 2,,"12,49€",-10%,"11,24€",1,1,1,"25 Nov, 2020"
+59,theHunter: Call of the Wild™ - Medved-Taiga,9,"7,99€",-50%,"3,99€",1,0,0,"17 Oct, 2017"
+60,Grand Theft Auto V: Premium Online Edition,9,"39,98€",-60%,"15,98€",1,0,0,
+61,Hell Let Loose,9,"29,99€",-25%,"22,49€",1,0,0,"6 Jun, 2019"
+62,The Forest,9,"16,79€",-50%,"8,39€",1,0,0,"30 Apr, 2018"
+63,Expansion - Hearts of Iron IV: Man the Guns,6,"19,99€",-50%,"9,99€",1,1,1,"28 Feb, 2019"
+64,Age of Empires Definitive Collection,9,"59,97€",-61%,"23,22€",1,0,0,
+65,Age of Empires III: Definitive Edition,6,"19,99€",-20%,"15,99€",1,0,0,"15 Oct, 2020"
+66,BONEWORKS,9,"24,99€",-20%,"19,99€",1,0,0,"10 Dec, 2019"
+67,Thief,7,"19,99€",-85%,"2,99€",1,0,1,"27 Feb, 2014"
+68,Assetto Corsa Competizione,9,"39,99€",-60%,"15,99€",1,0,0,"29 May, 2019"
+69,CarX Drift Racing Online,9,"12,49€",-55%,"5,62€",1,0,0,"17 Nov, 2017"
+70,art of rally,9,"20,99€",-20%,"16,79€",1,1,1,"23 Sep, 2020"
+71,Wreckfest,9,"29,99€",-50%,"14,99€",1,0,0,"14 Jun, 2018"
+72,We Happy Few Digital Deluxe Edition,7,"91,57€",-76%,"21,82€",1,0,0,
+73,F1® 2020,9,"54,99€",-50%,"27,49€",1,0,0,"9 Jul, 2020"
+74,STAR WARS™: Squadrons,7,"39,99€",-40%,"23,99€",1,0,0,"1 Oct, 2020"
+75,Assetto Corsa,9,"19,99€",-80%,"3,99€",1,0,0,"19 Dec, 2014"
+76,The Witcher® 3: Wild Hunt,10,"29,99€",-70%,"8,99€",1,0,0,"18 May, 2015"
+77,Deep Rock Galactic,10,"29,99€",-30%,"20,99€",1,0,0,"13 May, 2020"
+78,Elite Dangerous,7,"24,99€",-75%,"6,24€",1,0,0,"2 Apr, 2015"
+79,theHunter: Call of the Wild™ - Silver Ridge Peaks,6,"7,99€",-25%,"5,99€",1,0,0,"23 Jun, 2020"
+80,Terraria,10,"9,99€",-50%,"4,99€",1,1,1,"16 May, 2011"
+81,Cities: Skylines,9,"27,99€",-75%,"6,99€",1,1,1,"10 Mar, 2015"
+82,DiRT Rally 2.0,9,"19,99€",-75%,"4,99€",1,0,0,"25 Feb, 2019"
+83,Haydee 2,9,"20,99€",-10%,"18,89€",1,0,0,"23 Nov, 2020"
+84,Total War: WARHAMMER,7,"59,99€",-75%,"14,99€",1,1,1,"24 May, 2016"
+85,TEKKEN 7,9,"39,99€",-75%,"9,99€",1,0,0,"1 Jun, 2017"
+86,Pavlov VR,9,"20,99€",-40%,"12,59€",1,0,0,"27 Feb, 2017"
+87,Stardew Valley,10,"13,99€",-30%,"9,79€",1,1,1,"26 Feb, 2016"
+88,Expansion - Hearts of Iron IV: Waking the Tiger,7,"19,99€",-50%,"9,99€",1,1,1,"8 Mar, 2018"
+89,IL-2 Sturmovik: Battle of Stalingrad,7,"46,99€",-85%,"7,04€",1,0,0,"22 Oct, 2014"
+90,Medieval Dynasty,9,"24,99€",-20%,"19,99€",1,0,0,"17 Sep, 2020"
+91,Sky Haven,6,"22,99€",-15%,"19,54€",1,1,1,"25 Nov, 2020"
+92,Marvel's Avengers Deluxe Edition,6,"79,98€",-50%,"39,98€",1,0,0,
+93,Fallout 4,7,"29,99€",-70%,"8,99€",1,0,0,"10 Nov, 2015"
+94,Sleeping Dogs: Definitive Edition,9,"19,99€",-85%,"2,99€",1,0,1,"14 Oct, 2014"
+95,Hunt: Showdown,9,"39,99€",-50%,"19,99€",1,0,0,"27 Aug, 2019"
+96,7 Days to Die,9,"22,99€",-66%,"7,81€",1,1,1,"13 Dec, 2013"
+97,ASTRONEER,9,"27,99€",-35%,"18,19€",1,0,0,"5 Feb, 2019"
+98,BELOW,7,"21,99€",-60%,"8,79€",1,0,0,"14 Dec, 2018"
+99,The Jackbox Party Pack 3,10,"22,99€",-35%,"14,94€",1,1,1,"17 Oct, 2016"
+100,Left 4 Dead 2,10,"8,19€",-80%,"1,63€",1,1,1,"16 Nov, 2009"
+101,Total War: THREE KINGDOMS,9,"59,99€",-33%,"40,19€",1,1,1,"23 May, 2019"
+102,Spyro™ Reignited Trilogy,10,"39,99€",-50%,"19,99€",1,0,0,"3 Sep, 2019"
+103,MORDHAU,9,"24,99€",-25%,"18,74€",1,0,0,"29 Apr, 2019"
+104,theHunter: Call of the Wild™ - Cuatro Colinas Game Reserve,6,"7,99€",-40%,"4,79€",1,0,0,"10 Dec, 2019"
+105,3DMark,9,"24,99€",-85%,"3,74€",1,0,0,"12 Feb, 2013"
+106,Bloons TD 6,10,"8,19€",-90%,"0,81€",1,0,1,"17 Dec, 2018"
+107,theHunter: Call of the Wild™ - Smoking Barrels Weapon Pack,9,"3,99€",-40%,"2,39€",1,0,0,"26 Mar, 2020"
+108,Monster Hunter: World,9,"29,99€",-34%,"19,79€",1,0,0,"9 Aug, 2018"
+109,RimWorld,10,"29,99€",-10%,"26,99€",1,1,1,"17 Oct, 2018"
+110,theHunter: Call of the Wild™ - Tents & Ground Blinds,6,"3,99€",-50%,"1,99€",1,0,0,"27 Apr, 2017"
+111,theHunter: Call of the Wild™ - Weapon Pack 2,9,"3,99€",-50%,"1,99€",1,0,0,"28 Feb, 2019"
+112,Sekiro™: Shadows Die Twice - GOTY Edition,9,"59,99€",-35%,"38,99€",1,0,0,"21 Mar, 2019"
+113,Children of Morta,9,"21,99€",-50%,"10,99€",1,1,1,"3 Sep, 2019"
+114,theHunter: Call of the Wild™ - Parque Fernando,7,"7,99€",-50%,"3,99€",1,0,0,"13 Dec, 2018"
+115,theHunter: Call of the Wild™ - Weapon Pack 1,9,"3,99€",-50%,"1,99€",1,0,0,"12 Apr, 2018"
+116,Sid Meier's Civilization V: Complete,10,"136,84€",-78%,"30,31€",1,1,1,
+117,Generation Zero®,6,"24,99€",-63%,"9,24€",1,0,0,"26 Mar, 2019"
+118,Expansion - Hearts of Iron IV: La Résistance,6,"19,99€",-33%,"13,39€",1,1,1,"25 Feb, 2020"
+119,Expansion - Hearts of Iron IV: Together for Victory,6,"14,99€",-50%,"7,49€",1,1,1,"15 Dec, 2016"
+120,Mortal Kombat 11,9,"49,99€",-70%,"14,99€",1,0,0,"23 Apr, 2019"
+121,The Elder Scrolls V: Skyrim Special Edition,9,"39,99€",-60%,"15,99€",1,0,0,"27 Oct, 2016"
+122,Post Scriptum,9,"28,--€",-25%,"21,--€",1,0,0,"9 Aug, 2018"
+123,Ultimate Chicken Horse,10,"12,49€",-45%,"6,86€",1,1,1,"4 Mar, 2016"
+124,Resident Evil 3,7,"59,99€",-67%,"19,79€",1,0,0,"2 Apr, 2020"
+,Name,Score,Original Price,Discount,Discounted Price,Win,Linux,Mac,Release Date
+0,Counter-Strike: Global Offensive,9,Free to Play,,Free to Play,1,1,1,"21 Aug, 2012"
+1,DOOM Eternal,9,"59,99€",-67%,"19,79€",1,0,0,"19 Mar, 2020"
+2,DEATH STRANDING,9,"59,99€",-50%,"29,99€",1,0,0,"14 Jul, 2020"
+3,The Sims™ 4,9,"39,99€",-88%,"4,79€",1,0,0,"18 Jun, 2020"
+4,Red Dead Redemption 2,9,"59,99€",-33%,"40,19€",1,0,0,"5 Dec, 2019"
+5,Borderlands 3,9,"59,99€",-67%,"19,79€",1,0,0,"13 Mar, 2020"
+6,STAR WARS Jedi: Fallen Order™,9,"59,99€",-60%,"23,99€",1,0,0,"15 Nov, 2019"
+7,Halo: The Master Chief Collection,9,"39,99€",-35%,"25,99€",1,0,0,"3 Dec, 2019"
+8,Sid Meier’s Civilization® VI,9,"59,99€",-75%,"14,99€",1,1,1,"20 Oct, 2016"
+9,Total War: WARHAMMER II,9,"59,99€",-66%,"20,39€",1,1,1,"28 Sep, 2017"
+10,Control Ultimate Edition,9,"39,99€",-50%,"19,99€",1,0,0,"27 Aug, 2020"
+11,Sid Meier's Civilization VI : Platinum Edition,9,"167,91€",-76%,"39,69€",1,1,1,
+12,Hades,10,"20,99€",-20%,"16,79€",1,0,1,"17 Sep, 2020"
+13,Euro Truck Simulator 2,10,"19,99€",-75%,"4,99€",1,1,1,"12 Oct, 2012"
+14,Far Cry® 5,7,"59,99€",-80%,"11,99€",1,0,0,"26 Mar, 2018"
+15,DARK SOULS™ III,9,"59,99€",-75%,"14,99€",1,0,0,"11 Apr, 2016"
+16,Grand Theft Auto V,9,"29,99€",-50%,"14,99€",1,0,0,"13 Apr, 2015"
+17,STAR WARS™: Squadrons,7,"39,99€",-40%,"23,99€",1,0,0,"1 Oct, 2020"
+18,Phasmophobia,10,"11,59€",-10%,"10,43€",1,0,0,"18 Sep, 2020"
+19,Crusader Kings III,9,"49,99€",-20%,"39,99€",1,1,1,"1 Sep, 2020"
+20,Divinity: Original Sin 2 - Definitive Edition,10,"44,99€",-60%,"17,99€",1,0,1,"14 Sep, 2017"
+21,Metro Exodus,9,"39,99€",-60%,"15,99€",1,0,0,"14 Feb, 2020"
+22,DARK SOULS III Deluxe Edition,9,"84,98€",-75%,"21,24€",1,0,0,"11 Apr, 2016"
+23,Sea of Thieves,9,"39,99€",-25%,"29,99€",1,0,0,"3 Jun, 2020"
+24,Assassin's Creed® Odyssey,9,"59,99€",-70%,"17,99€",1,0,0,"5 Oct, 2018"
+25,Among Us,10,"3,99€",-20%,"3,19€",1,0,0,"16 Nov, 2018"
+26,Tom Clancy's Rainbow Six® Siege,9,"29,99€",-67%,"9,89€",1,0,0,"1 Dec, 2015"
+27,Resident Evil 3,7,"59,99€",-67%,"19,79€",1,0,0,"2 Apr, 2020"
+28,theHunter: Call of the Wild™,9,"19,99€",-70%,"5,99€",1,0,0,"16 Feb, 2017"
+29,Sekiro™: Shadows Die Twice - GOTY Edition,9,"59,99€",-35%,"38,99€",1,0,0,"21 Mar, 2019"
+30,The Witcher® 3: Wild Hunt,10,"29,99€",-70%,"8,99€",1,0,0,"18 May, 2015"
+31,Half-Life: Alyx,10,"49,99€",-25%,"37,49€",1,0,0,"23 Mar, 2020"
+32,Stellaris,9,"39,99€",-75%,"9,99€",1,1,1,"9 May, 2016"
+33,Ori and the Will of the Wisps,10,"29,99€",-50%,"14,99€",1,0,0,"10 Mar, 2020"
+34,The Witcher 3: Wild Hunt - Game of the Year Edition,10,"49,99€",-70%,"14,99€",1,0,0,"30 Aug, 2016"
+35,Rust,9,"33,99€",-33%,"22,77€",1,0,1,"8 Feb, 2018"
+36,Shadow of the Tomb Raider: Definitive Edition,9,"109,96€",-87%,"14,80€",1,1,1,
+37,EA SPORTS™ FIFA 21,7,"59,99€",-42%,"34,79€",1,0,0,"8 Oct, 2020"
+38,The Elder Scrolls® Online,9,"19,99€",-60%,"7,99€",1,0,1,"22 May, 2017"
+39,Assetto Corsa Competizione,9,"39,99€",-60%,"15,99€",1,0,0,"29 May, 2019"
+40,The Outer Worlds,9,"59,99€",-50%,"29,99€",1,0,0,"23 Oct, 2020"
+41,PLAYERUNKNOWN'S BATTLEGROUNDS,6,"29,99€",-50%,"14,99€",1,0,0,"21 Dec, 2017"
+42,Hearts of Iron IV,9,"39,99€",-75%,"9,99€",1,1,1,"6 Jun, 2016"
+43,Total War: WARHAMMER,7,"59,99€",-75%,"14,99€",1,1,1,"24 May, 2016"
+44,Raft,9,"19,99€",-33%,"13,39€",1,0,0,"23 May, 2018"
+45,The Elder Scrolls V: Skyrim Special Edition,9,"39,99€",-60%,"15,99€",1,0,0,"27 Oct, 2016"
+46,Fallout 76,7,"39,99€",-67%,"13,19€",1,0,0,"14 Apr, 2020"
+47,DiRT Rally 2.0,9,"19,99€",-75%,"4,99€",1,0,0,"25 Feb, 2019"
+48,Warhammer: Vermintide 2,9,"27,99€",-75%,"6,99€",1,0,0,"8 Mar, 2018"
+49,Cities: Skylines,9,"27,99€",-75%,"6,99€",1,1,1,"10 Mar, 2015"
+50,Monster Hunter: World,9,"29,99€",-34%,"19,79€",1,0,0,"9 Aug, 2018"
+51,EA STAR WARS™ TRIPLE BUNDLE,9,"149,97€",-67%,"49,89€",1,0,0,
+52,Mafia: Definitive Edition,9,"39,99€",-25%,"29,99€",1,0,0,"24 Sep, 2020"
+53,Dota 2,9,Free to Play,,Free to Play,1,1,1,"9 Jul, 2013"
+54,Shadow of the Tomb Raider: Definitive Edition,9,,,,1,1,1,"14 Sep, 2018"
+55,Deep Rock Galactic,10,"29,99€",-30%,"20,99€",1,0,0,"13 May, 2020"
+56,F1® 2020,9,"54,99€",-50%,"27,49€",1,0,0,"9 Jul, 2020"
+57,Need for Speed™ Heat,9,"69,99€",-70%,"20,99€",1,0,0,"4 Jun, 2020"
+58,HITMAN™ 2,9,,,,1,0,0,"13 Nov, 2018"
+59,Dead by Daylight,9,"19,99€",-60%,"7,99€",1,0,0,"14 Jun, 2016"
+60,DayZ,6,"39,99€",-40%,"23,99€",1,0,0,"13 Dec, 2018"
+61,Satisfactory,10,"29,99€",-20%,"23,99€",1,0,0,"8 Jun, 2020"
+62,Hunt: Showdown,9,"39,99€",-50%,"19,99€",1,0,0,"27 Aug, 2019"
+63,STAR WARS Jedi: Fallen Order Deluxe Edition,9,"69,99€",-60%,"27,99€",1,0,0,"14 Nov, 2019"
+64,Assassin's Creed® Origins,9,"59,99€",-80%,"11,99€",1,0,0,"26 Oct, 2017"
+65,Fallout 4,7,"29,99€",-70%,"8,99€",1,0,0,"10 Nov, 2015"
+66,ARK: Survival Evolved,7,"54,99€",-80%,"10,99€",1,1,1,"29 Aug, 2017"
+67,Dishonored 2,9,"39,99€",-80%,"7,99€",1,0,0,"11 Nov, 2016"
+68,Europa Universalis IV,9,"39,99€",-75%,"9,99€",1,1,1,"13 Aug, 2013"
+69,Wasteland 3,9,"59,99€",-30%,"41,99€",1,0,0,"28 Aug, 2020"
+70,NEKOPARA Vol. 4,9,"8,19€",-10%,"7,37€",1,0,0,"26 Nov, 2020"
+71,Squad,9,"44,99€",-25%,"33,74€",1,0,0,"23 Sep, 2020"
+72,Fall Guys: Ultimate Knockout,9,"19,99€",-20%,"15,99€",1,0,0,"3 Aug, 2020"
+73,The Forest,9,"16,79€",-50%,"8,39€",1,0,0,"30 Apr, 2018"
+74,American Truck Simulator,10,"19,99€",-75%,"4,99€",1,1,1,"2 Feb, 2016"
+75,Arma 3,9,"27,99€",-75%,"6,99€",1,0,0,"12 Sep, 2013"
+76,Black Desert Online,7,"9,99€",-70%,"2,99€",1,0,0,"24 May, 2017"
+77,Middle-earth™: Shadow of War™,9,"39,99€",-80%,"7,99€",1,0,0,"10 Oct, 2017"
+78,7 Days to Die,9,"22,99€",-66%,"7,81€",1,1,1,"13 Dec, 2013"
+79,GreedFall,7,"49,99€",-60%,"19,99€",1,0,0,"9 Sep, 2019"
+80,IL-2 Sturmovik: Battle of Stalingrad,7,"46,99€",-85%,"7,04€",1,0,0,"22 Oct, 2014"
+81,Battlefield V,6,"59,99€",-60%,"23,99€",1,0,0,"11 Jun, 2020"
+82,Age of Empires II: Definitive Edition,9,"19,99€",-50%,"9,99€",1,0,0,"14 Nov, 2019"
+83,Tabletop Simulator,10,"19,99€",-50%,"9,99€",1,1,1,"5 Jun, 2015"
+84,Assetto Corsa,9,"19,99€",-80%,"3,99€",1,0,0,"19 Dec, 2014"
+85,Team Fortress 2,9,Free to Play,,Free to Play,1,1,1,"10 Oct, 2007"
+86,STAR WARS™ Battlefront™ II,9,"39,99€",-70%,"11,99€",1,0,0,"11 Jun, 2020"
+87,Hearts of Iron IV: Mobilization Pack,9,"104,95€",-64%,"38,20€",1,1,1,
+88,Black Mesa,10,"17,99€",-50%,"8,99€",1,1,0,"6 Mar, 2020"
+89,DOOM,9,"19,99€",-70%,"5,99€",1,0,0,"12 May, 2016"
+90,Wreckfest,9,"29,99€",-50%,"14,99€",1,0,0,"14 Jun, 2018"
+91,DARK SOULS™ II: Scholar of the First Sin,9,"39,99€",-75%,"9,99€",1,0,0,"1 Apr, 2015"
+92,Mortal Kombat 11,9,"49,99€",-70%,"14,99€",1,0,0,"23 Apr, 2019"
+93,Sniper Elite 4,9,"59,99€",-85%,"8,99€",1,0,0,"13 Feb, 2017"
+94,Sid Meier's Civilization® VI: Gathering Storm,7,"39,99€",-60%,"15,99€",1,1,1,"13 Feb, 2019"
+95,Noita,10,"18,99€",-25%,"14,24€",1,0,0,"15 Oct, 2020"
+96,PAYDAY 2,9,"9,99€",-50%,"4,99€",1,1,0,"13 Aug, 2013"
+97,Wolfenstein Alt History Collection,9,"99,96€",-81%,"19,40€",1,0,0,
+98,Battlefield 1 ™,7,"39,99€",-75%,"9,99€",1,0,0,"11 Jun, 2020"
+99,The Sims™ 4 Deluxe + Cats & Dogs Bundle,9,"89,98€",-81%,"17,14€",1,0,0,
+100,Euro Truck Simulator 2 Map Booster,9,"81,95€",-75%,"20,86€",1,1,1,
+101,Battlefield Bundle,7,"139,97€",-76%,"32,97€",1,0,0,
+102,CODE VEIN,9,"49,99€",-60%,"19,99€",1,0,0,"26 Sep, 2019"
+103,Monster Hunter World: Iceborne,6,"39,99€",-38%,"24,79€",1,0,0,"9 Jan, 2020"
+104,Space Engineers,9,"16,99€",-30%,"11,89€",1,0,0,"28 Feb, 2019"
+105,Command & Conquer™ Remastered Collection,9,"19,99€",-35%,"12,99€",1,0,0,"5 Jun, 2020"
+106,TEKKEN 7,9,"39,99€",-75%,"9,99€",1,0,0,"1 Jun, 2017"
+107,Kingdom Come: Deliverance,7,"29,99€",-50%,"14,99€",1,0,0,"13 Feb, 2018"
+108,No Man's Sky,6,"54,99€",-50%,"27,49€",1,0,0,"12 Aug, 2016"
+109,Farming Simulator 19,9,"19,99€",-30%,"13,99€",1,0,1,"19 Nov, 2018"
+110,Total War: WARHAMMER II - The Twisted & The Twilight,,"9,99€",-10%,"8,99€",1,1,1,"3 Dec, 2020"
+111,Gears 5,6,"39,99€",-75%,"9,99€",1,0,0,"9 Sep, 2019"
+112,Borderlands: The Handsome Collection,9,"235,48€",-96%,"10,07€",1,1,1,
+113,Planet Zoo,9,"44,99€",-40%,"26,99€",1,0,0,"5 Nov, 2019"
+114,RACCOON CITY EDITION,9,"79,98€",-63%,"29,78€",1,0,0,
+115,Detroit: Become Human,9,"39,90€",-30%,"27,93€",1,0,0,"18 Jun, 2020"
+116,3DMark,9,"24,99€",-85%,"3,74€",1,0,0,"12 Feb, 2013"
+117,The Sims™ 4 Cats & Dogs,7,"39,99€",-50%,"19,99€",1,0,0,"18 Jun, 2020"
+118,Wolfenstein II: The New Colossus,7,"29,99€",-80%,"5,99€",1,0,0,"26 Oct, 2017"
+119,The Elder Scrolls V: Skyrim VR,7,"59,99€",-67%,"19,79€",1,0,0,"2 Apr, 2018"
+120,Far Cry® New Dawn,7,"44,99€",-75%,"11,24€",1,0,0,"15 Feb, 2019"
+121,Grand Theft Auto V: Premium Online Edition,9,"39,98€",-60%,"15,98€",1,0,0,
+122,Spyro™ Reignited Trilogy,10,"39,99€",-50%,"19,99€",1,0,0,"3 Sep, 2019"
+123,Dying Light,9,"29,99€",-66%,"10,19€",1,1,1,"26 Jan, 2015"
+124,Titanfall® 2,10,"29,99€",-67%,"9,89€",1,0,0,"18 Jun, 2020"
+,Name,Score,Original Price,Discount,Discounted Price,Win,Linux,Mac,Release Date
+0,Counter-Strike: Global Offensive,9,Free to Play,,Free to Play,1,1,1,"21 Aug, 2012"
+1,DOOM Eternal,9,"59,99€",-67%,"19,79€",1,0,0,"19 Mar, 2020"
+2,The Sims™ 4,9,"39,99€",-88%,"4,79€",1,0,0,"18 Jun, 2020"
+3,Red Dead Redemption 2,9,"59,99€",-33%,"40,19€",1,0,0,"5 Dec, 2019"
+4,Halo: The Master Chief Collection,9,"39,99€",-35%,"25,99€",1,0,0,"3 Dec, 2019"
+5,DEATH STRANDING,9,"59,99€",-50%,"29,99€",1,0,0,"14 Jul, 2020"
+6,STAR WARS Jedi: Fallen Order™,9,"59,99€",-60%,"23,99€",1,0,0,"15 Nov, 2019"
+7,Sid Meier’s Civilization® VI,9,"59,99€",-75%,"14,99€",1,1,1,"20 Oct, 2016"
+8,Borderlands 3,9,"59,99€",-67%,"19,79€",1,0,0,"13 Mar, 2020"
+9,Control Ultimate Edition,9,"39,99€",-50%,"19,99€",1,0,0,"27 Aug, 2020"
+10,Total War: WARHAMMER II,9,"59,99€",-66%,"20,39€",1,1,1,"28 Sep, 2017"
+11,Sid Meier's Civilization VI : Platinum Edition,9,"167,91€",-76%,"39,69€",1,1,1,
+12,Hades,10,"20,99€",-20%,"16,79€",1,0,1,"17 Sep, 2020"
+13,Euro Truck Simulator 2,10,"19,99€",-75%,"4,99€",1,1,1,"12 Oct, 2012"
+14,STAR WARS™: Squadrons,7,"39,99€",-40%,"23,99€",1,0,0,"1 Oct, 2020"
+15,Grand Theft Auto V,9,"29,99€",-50%,"14,99€",1,0,0,"13 Apr, 2015"
+16,Far Cry® 5,7,"59,99€",-80%,"11,99€",1,0,0,"26 Mar, 2018"
+17,Phasmophobia,10,"11,59€",-10%,"10,43€",1,0,0,"18 Sep, 2020"
+18,Among Us,10,"3,99€",-20%,"3,19€",1,0,0,"16 Nov, 2018"
+19,Divinity: Original Sin 2 - Definitive Edition,10,"44,99€",-60%,"17,99€",1,0,1,"14 Sep, 2017"
+20,Crusader Kings III,9,"49,99€",-20%,"39,99€",1,1,1,"1 Sep, 2020"
+21,Metro Exodus,9,"39,99€",-60%,"15,99€",1,0,0,"14 Feb, 2020"
+22,Resident Evil 3,7,"59,99€",-67%,"19,79€",1,0,0,"2 Apr, 2020"
+23,DARK SOULS™ III,9,"59,99€",-75%,"14,99€",1,0,0,"11 Apr, 2016"
+24,Assassin's Creed® Odyssey,9,"59,99€",-70%,"17,99€",1,0,0,"5 Oct, 2018"
+25,theHunter: Call of the Wild™,9,"19,99€",-70%,"5,99€",1,0,0,"16 Feb, 2017"
+26,The Witcher® 3: Wild Hunt,10,"29,99€",-70%,"8,99€",1,0,0,"18 May, 2015"
+27,The Witcher 3: Wild Hunt - Game of the Year Edition,10,"49,99€",-70%,"14,99€",1,0,0,"30 Aug, 2016"
+28,Sea of Thieves,9,"39,99€",-25%,"29,99€",1,0,0,"3 Jun, 2020"
+29,Stellaris,9,"39,99€",-75%,"9,99€",1,1,1,"9 May, 2016"
+30,Tom Clancy's Rainbow Six® Siege,9,"29,99€",-67%,"9,89€",1,0,0,"1 Dec, 2015"
+31,Ori and the Will of the Wisps,10,"29,99€",-50%,"14,99€",1,0,0,"10 Mar, 2020"
+32,DARK SOULS III Deluxe Edition,9,"84,98€",-75%,"21,24€",1,0,0,"11 Apr, 2016"
+33,Half-Life: Alyx,10,"49,99€",-25%,"37,49€",1,0,0,"23 Mar, 2020"
+34,Sekiro™: Shadows Die Twice - GOTY Edition,9,"59,99€",-35%,"38,99€",1,0,0,"21 Mar, 2019"
+35,EA STAR WARS™ TRIPLE BUNDLE,9,"149,97€",-67%,"49,89€",1,0,0,
+36,The Elder Scrolls® Online,9,"19,99€",-60%,"7,99€",1,0,1,"22 May, 2017"
+37,The Outer Worlds,9,"59,99€",-50%,"29,99€",1,0,0,"23 Oct, 2020"
+38,Rust,9,"33,99€",-33%,"22,77€",1,0,1,"8 Feb, 2018"
+39,Assetto Corsa Competizione,9,"39,99€",-60%,"15,99€",1,0,0,"29 May, 2019"
+40,EA SPORTS™ FIFA 21,7,"59,99€",-42%,"34,79€",1,0,0,"8 Oct, 2020"
+41,PLAYERUNKNOWN'S BATTLEGROUNDS,6,"29,99€",-50%,"14,99€",1,0,0,"21 Dec, 2017"
+42,STAR WARS Jedi: Fallen Order Deluxe Edition,9,"69,99€",-60%,"27,99€",1,0,0,"14 Nov, 2019"
+43,Total War: WARHAMMER,7,"59,99€",-75%,"14,99€",1,1,1,"24 May, 2016"
+44,Hearts of Iron IV,9,"39,99€",-75%,"9,99€",1,1,1,"6 Jun, 2016"
+45,DiRT Rally 2.0,9,"19,99€",-75%,"4,99€",1,0,0,"25 Feb, 2019"
+46,Raft,9,"19,99€",-33%,"13,39€",1,0,0,"23 May, 2018"
+47,The Elder Scrolls V: Skyrim Special Edition,9,"39,99€",-60%,"15,99€",1,0,0,"27 Oct, 2016"
+48,Shadow of the Tomb Raider: Definitive Edition,9,"109,96€",-87%,"14,80€",1,1,1,
+49,Fallout 76,7,"39,99€",-67%,"13,19€",1,0,0,"14 Apr, 2020"
+50,Warhammer: Vermintide 2,9,"27,99€",-75%,"6,99€",1,0,0,"8 Mar, 2018"
+51,Mafia: Definitive Edition,9,"39,99€",-25%,"29,99€",1,0,0,"24 Sep, 2020"
+52,Dead by Daylight,9,"19,99€",-60%,"7,99€",1,0,0,"14 Jun, 2016"
+53,Fall Guys: Ultimate Knockout,9,"19,99€",-20%,"15,99€",1,0,0,"3 Aug, 2020"
+54,F1® 2020,9,"54,99€",-50%,"27,49€",1,0,0,"9 Jul, 2020"
+55,Cities: Skylines,9,"27,99€",-75%,"6,99€",1,1,1,"10 Mar, 2015"
+56,DayZ,6,"39,99€",-40%,"23,99€",1,0,0,"13 Dec, 2018"
+57,NEKOPARA Vol. 4,9,"8,19€",-10%,"7,37€",1,0,0,"26 Nov, 2020"
+58,Dota 2,9,Free to Play,,Free to Play,1,1,1,"9 Jul, 2013"
+59,Need for Speed™ Heat,9,"69,99€",-70%,"20,99€",1,0,0,"4 Jun, 2020"
+60,HITMAN™ 2,9,,,,1,0,0,"13 Nov, 2018"
+61,Wasteland 3,9,"59,99€",-30%,"41,99€",1,0,0,"28 Aug, 2020"
+62,Shadow of the Tomb Raider: Definitive Edition,9,,,,1,1,1,"14 Sep, 2018"
+63,Deep Rock Galactic,10,"29,99€",-30%,"20,99€",1,0,0,"13 May, 2020"
+64,Assassin's Creed® Origins,9,"59,99€",-80%,"11,99€",1,0,0,"26 Oct, 2017"
+65,Fallout 4,7,"29,99€",-70%,"8,99€",1,0,0,"10 Nov, 2015"
+66,Black Desert Online,7,"9,99€",-70%,"2,99€",1,0,0,"24 May, 2017"
+67,Monster Hunter: World,9,"29,99€",-34%,"19,79€",1,0,0,"9 Aug, 2018"
+68,Hunt: Showdown,9,"39,99€",-50%,"19,99€",1,0,0,"27 Aug, 2019"
+69,The Forest,9,"16,79€",-50%,"8,39€",1,0,0,"30 Apr, 2018"
+70,ARK: Survival Evolved,7,"54,99€",-80%,"10,99€",1,1,1,"29 Aug, 2017"
+71,Squad,9,"44,99€",-25%,"33,74€",1,0,0,"23 Sep, 2020"
+72,Satisfactory,10,"29,99€",-20%,"23,99€",1,0,0,"8 Jun, 2020"
+73,Dishonored 2,9,"39,99€",-80%,"7,99€",1,0,0,"11 Nov, 2016"
+74,Arma 3,9,"27,99€",-75%,"6,99€",1,0,0,"12 Sep, 2013"
+75,Europa Universalis IV,9,"39,99€",-75%,"9,99€",1,1,1,"13 Aug, 2013"
+76,Middle-earth™: Shadow of War™,9,"39,99€",-80%,"7,99€",1,0,0,"10 Oct, 2017"
+77,American Truck Simulator,10,"19,99€",-75%,"4,99€",1,1,1,"2 Feb, 2016"
+78,Wolfenstein Alt History Collection,9,"99,96€",-81%,"19,40€",1,0,0,
+79,GreedFall,7,"49,99€",-60%,"19,99€",1,0,0,"9 Sep, 2019"
+80,7 Days to Die,9,"22,99€",-66%,"7,81€",1,1,1,"13 Dec, 2013"
+81,Age of Empires II: Definitive Edition,9,"19,99€",-50%,"9,99€",1,0,0,"14 Nov, 2019"
+82,Tabletop Simulator,10,"19,99€",-50%,"9,99€",1,1,1,"5 Jun, 2015"
+83,The Sims™ 4 Deluxe + Cats & Dogs Bundle,9,"89,98€",-81%,"17,14€",1,0,0,
+84,STAR WARS™ Battlefront™ II,9,"39,99€",-70%,"11,99€",1,0,0,"11 Jun, 2020"
+85,Assetto Corsa,9,"19,99€",-80%,"3,99€",1,0,0,"19 Dec, 2014"
+86,Grand Theft Auto V: Premium Online Edition,9,"39,98€",-60%,"15,98€",1,0,0,
+87,IL-2 Sturmovik: Battle of Stalingrad,7,"46,99€",-85%,"7,04€",1,0,0,"22 Oct, 2014"
+88,DOOM,9,"19,99€",-70%,"5,99€",1,0,0,"12 May, 2016"
+89,Black Mesa,10,"17,99€",-50%,"8,99€",1,1,0,"6 Mar, 2020"
+90,Noita,10,"18,99€",-25%,"14,24€",1,0,0,"15 Oct, 2020"
+91,Wreckfest,9,"29,99€",-50%,"14,99€",1,0,0,"14 Jun, 2018"
+92,Team Fortress 2,9,Free to Play,,Free to Play,1,1,1,"10 Oct, 2007"
+93,RACCOON CITY EDITION,9,"79,98€",-63%,"29,78€",1,0,0,
+94,Planet Zoo,9,"44,99€",-40%,"26,99€",1,0,0,"5 Nov, 2019"
+95,Battlefield 1 ™,7,"39,99€",-75%,"9,99€",1,0,0,"11 Jun, 2020"
+96,Detroit: Become Human,9,"39,90€",-30%,"27,93€",1,0,0,"18 Jun, 2020"
+97,Sniper Elite 4,9,"59,99€",-85%,"8,99€",1,0,0,"13 Feb, 2017"
+98,DARK SOULS™ II: Scholar of the First Sin,9,"39,99€",-75%,"9,99€",1,0,0,"1 Apr, 2015"
+99,Battlefield V,6,"59,99€",-60%,"23,99€",1,0,0,"11 Jun, 2020"
+100,Euro Truck Simulator 2 Map Booster,9,"81,95€",-75%,"20,86€",1,1,1,
+101,Wolfenstein II: The New Colossus,7,"29,99€",-80%,"5,99€",1,0,0,"26 Oct, 2017"
+102,Sid Meier's Civilization® VI: Gathering Storm,7,"39,99€",-60%,"15,99€",1,1,1,"13 Feb, 2019"
+103,Fallout 4: Game of the Year Edition,7,"59,99€",-67%,"19,79€",1,0,0,"10 Nov, 2015"
+104,PAYDAY 2,9,"9,99€",-50%,"4,99€",1,1,0,"13 Aug, 2013"
+105,TEKKEN 7,9,"39,99€",-75%,"9,99€",1,0,0,"1 Jun, 2017"
+106,3DMark,9,"24,99€",-85%,"3,74€",1,0,0,"12 Feb, 2013"
+107,Command & Conquer™ Remastered Collection,9,"19,99€",-35%,"12,99€",1,0,0,"5 Jun, 2020"
+108,Space Engineers,9,"16,99€",-30%,"11,89€",1,0,0,"28 Feb, 2019"
+109,No Man's Sky,6,"54,99€",-50%,"27,49€",1,0,0,"12 Aug, 2016"
+110,Borderlands: The Handsome Collection,9,"235,48€",-96%,"10,07€",1,1,1,
+111,Kingdom Come: Deliverance,7,"29,99€",-50%,"14,99€",1,0,0,"13 Feb, 2018"
+112,The Sims™ 4 Cats & Dogs,7,"39,99€",-50%,"19,99€",1,0,0,"18 Jun, 2020"
+113,Gears 5,6,"39,99€",-75%,"9,99€",1,0,0,"9 Sep, 2019"
+114,Total War: WARHAMMER II - The Twisted & The Twilight,,"9,99€",-10%,"8,99€",1,1,1,"3 Dec, 2020"
+115,Total War: THREE KINGDOMS,9,"59,99€",-33%,"40,19€",1,1,1,"23 May, 2019"
+116,Mortal Kombat 11,9,"49,99€",-70%,"14,99€",1,0,0,"23 Apr, 2019"
+117,Hearts of Iron IV: Mobilization Pack,9,"104,95€",-64%,"38,20€",1,1,1,
+118,CODE VEIN,9,"49,99€",-60%,"19,99€",1,0,0,"26 Sep, 2019"
+119,Battlefield 4™,9,"39,99€",-75%,"9,99€",1,0,0,"11 Jun, 2020"
+120,BioShock Infinite,10,"29,99€",-75%,"7,49€",1,1,1,"26 Mar, 2013"
+121,Monster Hunter World: Iceborne,6,"39,99€",-38%,"24,79€",1,0,0,"9 Jan, 2020"
+122,Far Cry® New Dawn,7,"44,99€",-75%,"11,24€",1,0,0,"15 Feb, 2019"
+123,Farming Simulator 19,9,"19,99€",-30%,"13,99€",1,0,1,"19 Nov, 2018"
+124,Spyro™ Reignited Trilogy,10,"39,99€",-50%,"19,99€",1,0,0,"3 Sep, 2019"
+,Name,Score,Original Price,Discount,Discounted Price,Win,Linux,Mac,Release Date,Time
+0,Counter-Strike: Global Offensive,9,Free to Play,,Free to Play,1,1,1,"21 Aug, 2012",2020-11-27 12:17:50.959941
+1,DOOM Eternal,9,"59,99€",-67%,"19,79€",1,0,0,"19 Mar, 2020",2020-11-27 12:17:50.960007
+2,The Sims™ 4,9,"39,99€",-88%,"4,79€",1,0,0,"18 Jun, 2020",2020-11-27 12:17:50.960060
+3,Borderlands 3,9,"59,99€",-67%,"19,79€",1,0,0,"13 Mar, 2020",2020-11-27 12:17:50.960111
+4,Red Dead Redemption 2,9,"59,99€",-33%,"40,19€",1,0,0,"5 Dec, 2019",2020-11-27 12:17:50.960162
+5,Sid Meier’s Civilization® VI,9,"59,99€",-75%,"14,99€",1,1,1,"20 Oct, 2016",2020-11-27 12:17:50.960216
+6,Halo: The Master Chief Collection,9,"39,99€",-35%,"25,99€",1,0,0,"3 Dec, 2019",2020-11-27 12:17:50.960270
+7,Total War: WARHAMMER II,9,"59,99€",-66%,"20,39€",1,1,1,"28 Sep, 2017",2020-11-27 12:17:50.960323
+8,DEATH STRANDING,9,"59,99€",-50%,"29,99€",1,0,0,"14 Jul, 2020",2020-11-27 12:17:50.960372
+9,Control Ultimate Edition,9,"39,99€",-50%,"19,99€",1,0,0,"27 Aug, 2020",2020-11-27 12:17:50.960420
+10,STAR WARS Jedi: Fallen Order™,9,"59,99€",-60%,"23,99€",1,0,0,"15 Nov, 2019",2020-11-27 12:17:50.960477
+11,Hades,10,"20,99€",-20%,"16,79€",1,0,1,"17 Sep, 2020",2020-11-27 12:17:50.960528
+12,The Witcher 3: Wild Hunt - Game of the Year Edition,10,"49,99€",-70%,"14,99€",1,0,0,"30 Aug, 2016",2020-11-27 12:17:50.960578
+13,DARK SOULS™ III,9,"59,99€",-75%,"14,99€",1,0,0,"11 Apr, 2016",2020-11-27 12:17:50.960628
+14,The Witcher® 3: Wild Hunt,10,"29,99€",-70%,"8,99€",1,0,0,"18 May, 2015",2020-11-27 12:17:50.960686
+15,Assassin's Creed® Odyssey,9,"59,99€",-70%,"17,99€",1,0,0,"5 Oct, 2018",2020-11-27 12:17:50.960737
+16,Euro Truck Simulator 2,10,"19,99€",-75%,"4,99€",1,1,1,"12 Oct, 2012",2020-11-27 12:17:50.960788
+17,Metro Exodus,9,"39,99€",-60%,"15,99€",1,0,0,"14 Feb, 2020",2020-11-27 12:17:50.960838
+18,STAR WARS™: Squadrons,7,"39,99€",-40%,"23,99€",1,0,0,"1 Oct, 2020",2020-11-27 12:17:50.960888
+19,Grand Theft Auto V,9,"29,99€",-50%,"14,99€",1,0,0,"13 Apr, 2015",2020-11-27 12:17:50.960941
+20,The Elder Scrolls® Online,9,"19,99€",-60%,"7,99€",1,0,1,"22 May, 2017",2020-11-27 12:17:50.960991
+21,Among Us,10,"3,99€",-20%,"3,19€",1,0,0,"16 Nov, 2018",2020-11-27 12:17:50.961037
+22,Half-Life: Alyx,10,"49,99€",-25%,"37,49€",1,0,0,"23 Mar, 2020",2020-11-27 12:17:50.961080
+23,Stellaris,9,"39,99€",-75%,"9,99€",1,1,1,"9 May, 2016",2020-11-27 12:17:50.961125
+24,DARK SOULS III Deluxe Edition,9,"84,98€",-75%,"21,24€",1,0,0,"11 Apr, 2016",2020-11-27 12:17:50.961168
+25,Divinity: Original Sin 2 - Definitive Edition,10,"44,99€",-60%,"17,99€",1,0,1,"14 Sep, 2017",2020-11-27 12:17:51.941108
+26,Resident Evil 3,7,"59,99€",-67%,"19,79€",1,0,0,"2 Apr, 2020",2020-11-27 12:17:51.941176
+27,DiRT Rally 2.0,9,"19,99€",-75%,"4,99€",1,0,0,"25 Feb, 2019",2020-11-27 12:17:51.941234
+28,Sea of Thieves,9,"39,99€",-25%,"29,99€",1,0,0,"3 Jun, 2020",2020-11-27 12:17:51.941290
+29,Tom Clancy's Rainbow Six® Siege,9,"29,99€",-67%,"9,89€",1,0,0,"1 Dec, 2015",2020-11-27 12:17:51.941347
+30,Ori and the Will of the Wisps,10,"29,99€",-50%,"14,99€",1,0,0,"10 Mar, 2020",2020-11-27 12:17:51.941403
+31,Far Cry® 5,7,"59,99€",-80%,"11,99€",1,0,0,"26 Mar, 2018",2020-11-27 12:17:51.941458
+32,Phasmophobia,10,"11,59€",-10%,"10,43€",1,0,0,"18 Sep, 2020",2020-11-27 12:17:51.941515
+33,The Elder Scrolls V: Skyrim Special Edition,9,"39,99€",-60%,"15,99€",1,0,0,"27 Oct, 2016",2020-11-27 12:17:51.941569
+34,Dota 2,9,Free to Play,,Free to Play,1,1,1,"9 Jul, 2013",2020-11-27 12:17:51.941607
+35,EA SPORTS™ FIFA 21,7,"59,99€",-42%,"34,79€",1,0,0,"8 Oct, 2020",2020-11-27 12:17:51.941661
+36,The Outer Worlds,9,"59,99€",-50%,"29,99€",1,0,0,"23 Oct, 2020",2020-11-27 12:17:51.941715
+37,theHunter: Call of the Wild™,9,"19,99€",-70%,"5,99€",1,0,0,"16 Feb, 2017",2020-11-27 12:17:51.941769
+38,Monster Hunter: World,9,"29,99€",-34%,"19,79€",1,0,0,"9 Aug, 2018",2020-11-27 12:17:51.941824
+39,Cities: Skylines,9,"27,99€",-75%,"6,99€",1,1,1,"10 Mar, 2015",2020-11-27 12:17:51.941880
+40,Rust,9,"33,99€",-33%,"22,77€",1,0,1,"8 Feb, 2018",2020-11-27 12:17:51.941935
+41,Dead by Daylight,9,"19,99€",-60%,"7,99€",1,0,0,"14 Jun, 2016",2020-11-27 12:17:51.941989
+42,Sid Meier's Civilization VI : Platinum Edition,9,"167,91€",-76%,"39,69€",1,1,1,,2020-11-27 12:17:51.942044
+43,Shadow of the Tomb Raider: Definitive Edition,9,"109,96€",-87%,"14,80€",1,1,1,,2020-11-27 12:17:51.942100
+44,Fallout 76,7,"39,99€",-67%,"13,19€",1,0,0,"14 Apr, 2020",2020-11-27 12:17:51.942155
+45,Mafia: Definitive Edition,9,"39,99€",-25%,"29,99€",1,0,0,"24 Sep, 2020",2020-11-27 12:17:51.942209
+46,Hearts of Iron IV,9,"39,99€",-75%,"9,99€",1,1,1,"6 Jun, 2016",2020-11-27 12:17:51.942265
+47,Raft,9,"19,99€",-33%,"13,39€",1,0,0,"23 May, 2018",2020-11-27 12:17:51.942316
+48,Crusader Kings III,9,"49,99€",-20%,"39,99€",1,1,1,"1 Sep, 2020",2020-11-27 12:17:51.942365
+49,Shadow of the Tomb Raider: Definitive Edition,9,,,,1,1,1,"14 Sep, 2018",2020-11-27 12:17:51.942397
+50,PLAYERUNKNOWN'S BATTLEGROUNDS,6,"29,99€",-50%,"14,99€",1,0,0,"21 Dec, 2017",2020-11-27 12:17:52.871735
+51,Assetto Corsa Competizione,9,"39,99€",-60%,"15,99€",1,0,0,"29 May, 2019",2020-11-27 12:17:52.871823
+52,Total War: WARHAMMER,7,"59,99€",-75%,"14,99€",1,1,1,"24 May, 2016",2020-11-27 12:17:52.871884
+53,Sekiro™: Shadows Die Twice - GOTY Edition,9,"59,99€",-35%,"38,99€",1,0,0,"21 Mar, 2019",2020-11-27 12:17:52.871941
+54,Assassin's Creed® Origins,9,"59,99€",-80%,"11,99€",1,0,0,"26 Oct, 2017",2020-11-27 12:17:52.871997
+55,Wasteland 3,9,"59,99€",-30%,"41,99€",1,0,0,"28 Aug, 2020",2020-11-27 12:17:52.872052
+56,EA STAR WARS™ TRIPLE BUNDLE,9,"149,97€",-67%,"49,89€",1,0,0,,2020-11-27 12:17:52.872105
+57,Fallout 4,7,"29,99€",-70%,"8,99€",1,0,0,"10 Nov, 2015",2020-11-27 12:17:52.872164
+58,Europa Universalis IV,9,"39,99€",-75%,"9,99€",1,1,1,"13 Aug, 2013",2020-11-27 12:17:52.872237
+59,Need for Speed™ Heat,9,"69,99€",-70%,"20,99€",1,0,0,"4 Jun, 2020",2020-11-27 12:17:52.872305
+60,NEKOPARA Vol. 4,10,"8,19€",-10%,"7,37€",1,0,0,"26 Nov, 2020",2020-11-27 12:17:52.872374
+61,Deep Rock Galactic,10,"29,99€",-30%,"20,99€",1,0,0,"13 May, 2020",2020-11-27 12:17:52.872441
+62,Assetto Corsa,9,"19,99€",-80%,"3,99€",1,0,0,"19 Dec, 2014",2020-11-27 12:17:52.872509
+63,DayZ,6,"39,99€",-40%,"23,99€",1,0,0,"13 Dec, 2018",2020-11-27 12:17:52.872571
+64,Dishonored 2,9,"39,99€",-80%,"7,99€",1,0,0,"11 Nov, 2016",2020-11-27 12:17:52.872628
+65,The Forest,9,"16,79€",-50%,"8,39€",1,0,0,"30 Apr, 2018",2020-11-27 12:17:52.872684
+66,HITMAN™ 2,9,,,,1,0,0,"13 Nov, 2018",2020-11-27 12:17:52.872719
+67,F1® 2020,9,"54,99€",-50%,"27,49€",1,0,0,"9 Jul, 2020",2020-11-27 12:17:52.872774
+68,Satisfactory,10,"29,99€",-20%,"23,99€",1,0,0,"8 Jun, 2020",2020-11-27 12:17:52.872831
+69,Tabletop Simulator,10,"19,99€",-50%,"9,99€",1,1,1,"5 Jun, 2015",2020-11-27 12:17:52.872889
+70,Arma 3,9,"27,99€",-75%,"6,99€",1,0,0,"12 Sep, 2013",2020-11-27 12:17:52.872944
+71,ARK: Survival Evolved,7,"54,99€",-80%,"10,99€",1,1,1,"29 Aug, 2017",2020-11-27 12:17:52.873000
+72,Assetto Corsa Ultimate Edition,9,"79,88€",-90%,"7,88€",1,0,0,,2020-11-27 12:17:52.873054
+73,Fall Guys: Ultimate Knockout,9,"19,99€",-20%,"15,99€",1,0,0,"3 Aug, 2020",2020-11-27 12:17:52.873109
+74,Black Desert Online,7,"9,99€",-70%,"2,99€",1,0,0,"24 May, 2017",2020-11-27 12:17:52.873160
+75,Warhammer: Vermintide 2,9,"27,99€",-75%,"6,99€",1,0,0,"8 Mar, 2018",2020-11-27 12:17:53.844531
+76,Hunt: Showdown,9,"39,99€",-50%,"19,99€",1,0,0,"27 Aug, 2019",2020-11-27 12:17:53.844594
+77,No Man's Sky,6,"54,99€",-50%,"27,49€",1,0,0,"12 Aug, 2016",2020-11-27 12:17:53.844655
+78,Monster Hunter World: Iceborne,6,"39,99€",-38%,"24,79€",1,0,0,"9 Jan, 2020",2020-11-27 12:17:53.844710
+79,DOOM,9,"19,99€",-70%,"5,99€",1,0,0,"12 May, 2016",2020-11-27 12:17:53.844769
+80,Battlefield V,6,"59,99€",-60%,"23,99€",1,0,0,"11 Jun, 2020",2020-11-27 12:17:53.844824
+81,Monster Hunter World: Iceborne Master Edition,9,"59,99€",-42%,"34,99€",1,0,0,,2020-11-27 12:17:53.844878
+82,American Truck Simulator,10,"19,99€",-75%,"4,99€",1,1,1,"2 Feb, 2016",2020-11-27 12:17:53.844934
+83,STAR WARS™ Battlefront™ II,9,"39,99€",-70%,"11,99€",1,0,0,"11 Jun, 2020",2020-11-27 12:17:53.844989
+84,Squad,9,"44,99€",-25%,"33,74€",1,0,0,"23 Sep, 2020",2020-11-27 12:17:53.845045
+85,GreedFall,7,"49,99€",-60%,"19,99€",1,0,0,"9 Sep, 2019",2020-11-27 12:17:53.845100
+86,Battlefield Bundle,7,"139,97€",-76%,"32,97€",1,0,0,,2020-11-27 12:17:53.845152
+87,Age of Empires II: Definitive Edition,9,"19,99€",-50%,"9,99€",1,0,0,"14 Nov, 2019",2020-11-27 12:17:53.845206
+88,Command & Conquer™ Remastered Collection,9,"19,99€",-35%,"12,99€",1,0,0,"5 Jun, 2020",2020-11-27 12:17:53.845262
+89,Wreckfest,9,"29,99€",-50%,"14,99€",1,0,0,"14 Jun, 2018",2020-11-27 12:17:53.845316
+90,Dying Light,9,"29,99€",-66%,"10,19€",1,1,1,"26 Jan, 2015",2020-11-27 12:17:53.845373
+91,Sniper Elite 4,9,"59,99€",-85%,"8,99€",1,0,0,"13 Feb, 2017",2020-11-27 12:17:53.845428
+92,Dying Light Enhanced Edition,9,"49,99€",-70%,"14,99€",1,1,1,,2020-11-27 12:17:53.845482
+93,TEKKEN 7,9,"39,99€",-75%,"9,99€",1,0,0,"1 Jun, 2017",2020-11-27 12:17:53.845538
+94,Battlefield 1 ™,9,"39,99€",-75%,"9,99€",1,0,0,"11 Jun, 2020",2020-11-27 12:17:53.845591
+95,Middle-earth™: Shadow of War™,9,"39,99€",-80%,"7,99€",1,0,0,"10 Oct, 2017",2020-11-27 12:17:53.845642
+96,Wolfenstein II: The New Colossus,7,"29,99€",-80%,"5,99€",1,0,0,"26 Oct, 2017",2020-11-27 12:17:53.845694
+97,Black Mesa,10,"17,99€",-50%,"8,99€",1,1,0,"6 Mar, 2020",2020-11-27 12:17:53.845746
+98,Planet Zoo,9,"44,99€",-40%,"26,99€",1,0,0,"5 Nov, 2019",2020-11-27 12:17:53.845795
+99,IL-2 Sturmovik: Battle of Stalingrad,7,"46,99€",-85%,"7,04€",1,0,0,"22 Oct, 2014",2020-11-27 12:17:53.845843
+100,XCOM® 2,9,"49,99€",-75%,"12,49€",1,1,1,"4 Feb, 2016",2020-11-27 12:17:54.849187
+101,Sid Meier's Civilization® VI: Gathering Storm,7,"39,99€",-60%,"15,99€",1,1,1,"13 Feb, 2019",2020-11-27 12:17:54.849246
+102,Wolfenstein Alt History Collection,9,"99,96€",-81%,"19,40€",1,0,0,,2020-11-27 12:17:54.849297
+103,Team Fortress 2,9,Free to Play,,Free to Play,1,1,1,"10 Oct, 2007",2020-11-27 12:17:54.849330
+104,Farming Simulator 19,9,"19,99€",-30%,"13,99€",1,0,1,"19 Nov, 2018",2020-11-27 12:17:54.849382
+105,The Crew™ 2,7,"49,99€",-80%,"9,99€",1,0,0,"28 Jun, 2018",2020-11-27 12:17:54.849432
+106,Age of Empires Definitive Collection,9,"59,97€",-61%,"23,22€",1,0,0,,2020-11-27 12:17:54.849481
+107,3DMark,9,"24,99€",-85%,"3,74€",1,0,0,"12 Feb, 2013",2020-11-27 12:17:54.849531
+108,Total War: WARHAMMER II - The Twisted & The Twilight,,"9,99€",-10%,"8,99€",1,1,1,"3 Dec, 2020",2020-11-27 12:17:54.849580
+109,Titanfall® 2,10,"29,99€",-67%,"9,89€",1,0,0,"18 Jun, 2020",2020-11-27 12:17:54.849631
+110,Noita,10,"18,99€",-25%,"14,24€",1,0,0,"15 Oct, 2020",2020-11-27 12:17:54.849680
+111,STAR WARS Jedi: Fallen Order Deluxe Edition,9,"69,99€",-60%,"27,99€",1,0,0,"14 Nov, 2019",2020-11-27 12:17:54.849772
+112,Resident Evil 2,10,"39,99€",-60%,"15,99€",1,0,0,"24 Jan, 2019",2020-11-27 12:17:54.849829
+113,Insurgency: Sandstorm,9,"29,99€",-50%,"14,99€",1,0,0,"12 Dec, 2018",2020-11-27 12:17:54.849886
+114,Dragon Age™ Inquisition,7,"39,99€",-70%,"11,99€",1,0,0,"4 Jun, 2020",2020-11-27 12:17:54.849943
+115,PAYDAY 2,9,"9,99€",-50%,"4,99€",1,1,0,"13 Aug, 2013",2020-11-27 12:17:54.849999
+116,Borderlands 3 Ultimate Edition,9,"114,97€",-35%,"74,67€",1,0,0,,2020-11-27 12:17:54.850052
+117,Medieval Dynasty,9,"24,99€",-20%,"19,99€",1,0,0,"17 Sep, 2020",2020-11-27 12:17:54.850106
+118,Wolfenstein: Youngblood,6,"29,99€",-70%,"8,99€",1,0,0,"25 Jul, 2019",2020-11-27 12:17:54.850161
+119,Tom Clancy's Ghost Recon® Wildlands,7,"49,99€",-70%,"14,99€",1,0,0,"6 Mar, 2017",2020-11-27 12:17:54.850216
+120,Remnant: From the Ashes,9,"39,99€",-50%,"19,99€",1,0,0,"19 Aug, 2019",2020-11-27 12:17:54.850270
+121,Disco Elysium,9,"39,99€",-30%,"27,99€",1,0,1,"15 Oct, 2019",2020-11-27 12:17:54.850326
+122,Kingdom Come: Deliverance,9,"29,99€",-50%,"14,99€",1,0,0,"13 Feb, 2018",2020-11-27 12:17:54.850380
+123,Gears 5,6,"39,99€",-75%,"9,99€",1,0,0,"9 Sep, 2019",2020-11-27 12:17:54.850449
+124,7 Days to Die,9,"22,99€",-66%,"7,81€",1,1,1,"13 Dec, 2013",2020-11-27 12:17:54.850508
+,Name,Score,Original Price,Discount,Discounted Price,Win,Linux,Mac,Release Date,Time
+0,Counter-Strike: Global Offensive,9,Free to Play,,Free to Play,1,1,1,"21 Aug, 2012",Fri Nov 27 12:21:26 2020
+1,DOOM Eternal,9,"59,99€",-67%,"19,79€",1,0,0,"19 Mar, 2020",Fri Nov 27 12:21:26 2020
+2,The Sims™ 4,9,"39,99€",-88%,"4,79€",1,0,0,"18 Jun, 2020",Fri Nov 27 12:21:26 2020
+3,Borderlands 3,9,"59,99€",-67%,"19,79€",1,0,0,"13 Mar, 2020",Fri Nov 27 12:21:26 2020
+4,Red Dead Redemption 2,9,"59,99€",-33%,"40,19€",1,0,0,"5 Dec, 2019",Fri Nov 27 12:21:26 2020
+5,Sid Meier’s Civilization® VI,9,"59,99€",-75%,"14,99€",1,1,1,"20 Oct, 2016",Fri Nov 27 12:21:26 2020
+6,Halo: The Master Chief Collection,9,"39,99€",-35%,"25,99€",1,0,0,"3 Dec, 2019",Fri Nov 27 12:21:26 2020
+7,Total War: WARHAMMER II,9,"59,99€",-66%,"20,39€",1,1,1,"28 Sep, 2017",Fri Nov 27 12:21:26 2020
+8,DEATH STRANDING,9,"59,99€",-50%,"29,99€",1,0,0,"14 Jul, 2020",Fri Nov 27 12:21:26 2020
+9,Control Ultimate Edition,9,"39,99€",-50%,"19,99€",1,0,0,"27 Aug, 2020",Fri Nov 27 12:21:26 2020
+10,STAR WARS Jedi: Fallen Order™,9,"59,99€",-60%,"23,99€",1,0,0,"15 Nov, 2019",Fri Nov 27 12:21:26 2020
+11,Hades,10,"20,99€",-20%,"16,79€",1,0,1,"17 Sep, 2020",Fri Nov 27 12:21:26 2020
+12,The Witcher 3: Wild Hunt - Game of the Year Edition,10,"49,99€",-70%,"14,99€",1,0,0,"30 Aug, 2016",Fri Nov 27 12:21:26 2020
+13,DARK SOULS™ III,9,"59,99€",-75%,"14,99€",1,0,0,"11 Apr, 2016",Fri Nov 27 12:21:26 2020
+14,The Witcher® 3: Wild Hunt,10,"29,99€",-70%,"8,99€",1,0,0,"18 May, 2015",Fri Nov 27 12:21:26 2020
+15,Assassin's Creed® Odyssey,9,"59,99€",-70%,"17,99€",1,0,0,"5 Oct, 2018",Fri Nov 27 12:21:26 2020
+16,Euro Truck Simulator 2,10,"19,99€",-75%,"4,99€",1,1,1,"12 Oct, 2012",Fri Nov 27 12:21:26 2020
+17,Metro Exodus,9,"39,99€",-60%,"15,99€",1,0,0,"14 Feb, 2020",Fri Nov 27 12:21:26 2020
+18,STAR WARS™: Squadrons,7,"39,99€",-40%,"23,99€",1,0,0,"1 Oct, 2020",Fri Nov 27 12:21:26 2020
+19,Grand Theft Auto V,9,"29,99€",-50%,"14,99€",1,0,0,"13 Apr, 2015",Fri Nov 27 12:21:26 2020
+20,The Elder Scrolls® Online,9,"19,99€",-60%,"7,99€",1,0,1,"22 May, 2017",Fri Nov 27 12:21:26 2020
+21,Among Us,10,"3,99€",-20%,"3,19€",1,0,0,"16 Nov, 2018",Fri Nov 27 12:21:26 2020
+22,Half-Life: Alyx,10,"49,99€",-25%,"37,49€",1,0,0,"23 Mar, 2020",Fri Nov 27 12:21:26 2020
+23,Stellaris,9,"39,99€",-75%,"9,99€",1,1,1,"9 May, 2016",Fri Nov 27 12:21:26 2020
+24,DARK SOULS III Deluxe Edition,9,"84,98€",-75%,"21,24€",1,0,0,"11 Apr, 2016",Fri Nov 27 12:21:26 2020
+25,Divinity: Original Sin 2 - Definitive Edition,10,"44,99€",-60%,"17,99€",1,0,1,"14 Sep, 2017",Fri Nov 27 12:21:27 2020
+26,Resident Evil 3,7,"59,99€",-67%,"19,79€",1,0,0,"2 Apr, 2020",Fri Nov 27 12:21:27 2020
+27,DiRT Rally 2.0,9,"19,99€",-75%,"4,99€",1,0,0,"25 Feb, 2019",Fri Nov 27 12:21:27 2020
+28,Sea of Thieves,9,"39,99€",-25%,"29,99€",1,0,0,"3 Jun, 2020",Fri Nov 27 12:21:27 2020
+29,Tom Clancy's Rainbow Six® Siege,9,"29,99€",-67%,"9,89€",1,0,0,"1 Dec, 2015",Fri Nov 27 12:21:27 2020
+30,Ori and the Will of the Wisps,10,"29,99€",-50%,"14,99€",1,0,0,"10 Mar, 2020",Fri Nov 27 12:21:27 2020
+31,Far Cry® 5,7,"59,99€",-80%,"11,99€",1,0,0,"26 Mar, 2018",Fri Nov 27 12:21:27 2020
+32,Phasmophobia,10,"11,59€",-10%,"10,43€",1,0,0,"18 Sep, 2020",Fri Nov 27 12:21:27 2020
+33,The Elder Scrolls V: Skyrim Special Edition,9,"39,99€",-60%,"15,99€",1,0,0,"27 Oct, 2016",Fri Nov 27 12:21:27 2020
+34,Dota 2,9,Free to Play,,Free to Play,1,1,1,"9 Jul, 2013",Fri Nov 27 12:21:27 2020
+35,EA SPORTS™ FIFA 21,7,"59,99€",-42%,"34,79€",1,0,0,"8 Oct, 2020",Fri Nov 27 12:21:27 2020
+36,The Outer Worlds,9,"59,99€",-50%,"29,99€",1,0,0,"23 Oct, 2020",Fri Nov 27 12:21:27 2020
+37,theHunter: Call of the Wild™,9,"19,99€",-70%,"5,99€",1,0,0,"16 Feb, 2017",Fri Nov 27 12:21:27 2020
+38,Monster Hunter: World,9,"29,99€",-34%,"19,79€",1,0,0,"9 Aug, 2018",Fri Nov 27 12:21:27 2020
+39,Cities: Skylines,9,"27,99€",-75%,"6,99€",1,1,1,"10 Mar, 2015",Fri Nov 27 12:21:27 2020
+40,Rust,9,"33,99€",-33%,"22,77€",1,0,1,"8 Feb, 2018",Fri Nov 27 12:21:27 2020
+41,Dead by Daylight,9,"19,99€",-60%,"7,99€",1,0,0,"14 Jun, 2016",Fri Nov 27 12:21:27 2020
+42,Sid Meier's Civilization VI : Platinum Edition,9,"167,91€",-76%,"39,69€",1,1,1,,Fri Nov 27 12:21:27 2020
+43,Shadow of the Tomb Raider: Definitive Edition,9,"109,96€",-87%,"14,80€",1,1,1,,Fri Nov 27 12:21:27 2020
+44,Fallout 76,7,"39,99€",-67%,"13,19€",1,0,0,"14 Apr, 2020",Fri Nov 27 12:21:27 2020
+45,Mafia: Definitive Edition,9,"39,99€",-25%,"29,99€",1,0,0,"24 Sep, 2020",Fri Nov 27 12:21:27 2020
+46,Hearts of Iron IV,9,"39,99€",-75%,"9,99€",1,1,1,"6 Jun, 2016",Fri Nov 27 12:21:27 2020
+47,Raft,9,"19,99€",-33%,"13,39€",1,0,0,"23 May, 2018",Fri Nov 27 12:21:27 2020
+48,Crusader Kings III,9,"49,99€",-20%,"39,99€",1,1,1,"1 Sep, 2020",Fri Nov 27 12:21:27 2020
+49,Shadow of the Tomb Raider: Definitive Edition,9,,,,1,1,1,"14 Sep, 2018",Fri Nov 27 12:21:27 2020
+50,PLAYERUNKNOWN'S BATTLEGROUNDS,6,"29,99€",-50%,"14,99€",1,0,0,"21 Dec, 2017",Fri Nov 27 12:21:28 2020
+51,Assetto Corsa Competizione,9,"39,99€",-60%,"15,99€",1,0,0,"29 May, 2019",Fri Nov 27 12:21:28 2020
+52,Total War: WARHAMMER,7,"59,99€",-75%,"14,99€",1,1,1,"24 May, 2016",Fri Nov 27 12:21:28 2020
+53,Sekiro™: Shadows Die Twice - GOTY Edition,9,"59,99€",-35%,"38,99€",1,0,0,"21 Mar, 2019",Fri Nov 27 12:21:28 2020
+54,Assassin's Creed® Origins,9,"59,99€",-80%,"11,99€",1,0,0,"26 Oct, 2017",Fri Nov 27 12:21:28 2020
+55,Wasteland 3,9,"59,99€",-30%,"41,99€",1,0,0,"28 Aug, 2020",Fri Nov 27 12:21:28 2020
+56,EA STAR WARS™ TRIPLE BUNDLE,9,"149,97€",-67%,"49,89€",1,0,0,,Fri Nov 27 12:21:28 2020
+57,Fallout 4,7,"29,99€",-70%,"8,99€",1,0,0,"10 Nov, 2015",Fri Nov 27 12:21:28 2020
+58,Europa Universalis IV,9,"39,99€",-75%,"9,99€",1,1,1,"13 Aug, 2013",Fri Nov 27 12:21:28 2020
+59,Need for Speed™ Heat,9,"69,99€",-70%,"20,99€",1,0,0,"4 Jun, 2020",Fri Nov 27 12:21:28 2020
+60,NEKOPARA Vol. 4,10,"8,19€",-10%,"7,37€",1,0,0,"26 Nov, 2020",Fri Nov 27 12:21:28 2020
+61,Deep Rock Galactic,10,"29,99€",-30%,"20,99€",1,0,0,"13 May, 2020",Fri Nov 27 12:21:28 2020
+62,Assetto Corsa,9,"19,99€",-80%,"3,99€",1,0,0,"19 Dec, 2014",Fri Nov 27 12:21:28 2020
+63,DayZ,6,"39,99€",-40%,"23,99€",1,0,0,"13 Dec, 2018",Fri Nov 27 12:21:28 2020
+64,Dishonored 2,9,"39,99€",-80%,"7,99€",1,0,0,"11 Nov, 2016",Fri Nov 27 12:21:28 2020
+65,The Forest,9,"16,79€",-50%,"8,39€",1,0,0,"30 Apr, 2018",Fri Nov 27 12:21:28 2020
+66,HITMAN™ 2,9,,,,1,0,0,"13 Nov, 2018",Fri Nov 27 12:21:28 2020
+67,F1® 2020,9,"54,99€",-50%,"27,49€",1,0,0,"9 Jul, 2020",Fri Nov 27 12:21:28 2020
+68,Satisfactory,10,"29,99€",-20%,"23,99€",1,0,0,"8 Jun, 2020",Fri Nov 27 12:21:28 2020
+69,Tabletop Simulator,10,"19,99€",-50%,"9,99€",1,1,1,"5 Jun, 2015",Fri Nov 27 12:21:28 2020
+70,Arma 3,9,"27,99€",-75%,"6,99€",1,0,0,"12 Sep, 2013",Fri Nov 27 12:21:28 2020
+71,ARK: Survival Evolved,7,"54,99€",-80%,"10,99€",1,1,1,"29 Aug, 2017",Fri Nov 27 12:21:28 2020
+72,Assetto Corsa Ultimate Edition,9,"79,88€",-90%,"7,88€",1,0,0,,Fri Nov 27 12:21:28 2020
+73,Fall Guys: Ultimate Knockout,9,"19,99€",-20%,"15,99€",1,0,0,"3 Aug, 2020",Fri Nov 27 12:21:28 2020
+74,Black Desert Online,7,"9,99€",-70%,"2,99€",1,0,0,"24 May, 2017",Fri Nov 27 12:21:28 2020
+75,Warhammer: Vermintide 2,9,"27,99€",-75%,"6,99€",1,0,0,"8 Mar, 2018",Fri Nov 27 12:21:29 2020
+76,Hunt: Showdown,9,"39,99€",-50%,"19,99€",1,0,0,"27 Aug, 2019",Fri Nov 27 12:21:29 2020
+77,No Man's Sky,6,"54,99€",-50%,"27,49€",1,0,0,"12 Aug, 2016",Fri Nov 27 12:21:29 2020
+78,Monster Hunter World: Iceborne,6,"39,99€",-38%,"24,79€",1,0,0,"9 Jan, 2020",Fri Nov 27 12:21:29 2020
+79,DOOM,9,"19,99€",-70%,"5,99€",1,0,0,"12 May, 2016",Fri Nov 27 12:21:29 2020
+80,Battlefield V,6,"59,99€",-60%,"23,99€",1,0,0,"11 Jun, 2020",Fri Nov 27 12:21:29 2020
+81,Monster Hunter World: Iceborne Master Edition,9,"59,99€",-42%,"34,99€",1,0,0,,Fri Nov 27 12:21:29 2020
+82,American Truck Simulator,10,"19,99€",-75%,"4,99€",1,1,1,"2 Feb, 2016",Fri Nov 27 12:21:29 2020
+83,STAR WARS™ Battlefront™ II,9,"39,99€",-70%,"11,99€",1,0,0,"11 Jun, 2020",Fri Nov 27 12:21:29 2020
+84,Squad,9,"44,99€",-25%,"33,74€",1,0,0,"23 Sep, 2020",Fri Nov 27 12:21:29 2020
+85,GreedFall,7,"49,99€",-60%,"19,99€",1,0,0,"9 Sep, 2019",Fri Nov 27 12:21:29 2020
+86,Battlefield Bundle,7,"139,97€",-76%,"32,97€",1,0,0,,Fri Nov 27 12:21:29 2020
+87,Age of Empires II: Definitive Edition,9,"19,99€",-50%,"9,99€",1,0,0,"14 Nov, 2019",Fri Nov 27 12:21:29 2020
+88,Command & Conquer™ Remastered Collection,9,"19,99€",-35%,"12,99€",1,0,0,"5 Jun, 2020",Fri Nov 27 12:21:29 2020
+89,Wreckfest,9,"29,99€",-50%,"14,99€",1,0,0,"14 Jun, 2018",Fri Nov 27 12:21:29 2020
+90,Dying Light,9,"29,99€",-66%,"10,19€",1,1,1,"26 Jan, 2015",Fri Nov 27 12:21:29 2020
+91,Sniper Elite 4,9,"59,99€",-85%,"8,99€",1,0,0,"13 Feb, 2017",Fri Nov 27 12:21:29 2020
+92,Dying Light Enhanced Edition,9,"49,99€",-70%,"14,99€",1,1,1,,Fri Nov 27 12:21:29 2020
+93,TEKKEN 7,9,"39,99€",-75%,"9,99€",1,0,0,"1 Jun, 2017",Fri Nov 27 12:21:29 2020
+94,Battlefield 1 ™,9,"39,99€",-75%,"9,99€",1,0,0,"11 Jun, 2020",Fri Nov 27 12:21:29 2020
+95,Middle-earth™: Shadow of War™,9,"39,99€",-80%,"7,99€",1,0,0,"10 Oct, 2017",Fri Nov 27 12:21:29 2020
+96,Wolfenstein II: The New Colossus,7,"29,99€",-80%,"5,99€",1,0,0,"26 Oct, 2017",Fri Nov 27 12:21:29 2020
+97,Black Mesa,10,"17,99€",-50%,"8,99€",1,1,0,"6 Mar, 2020",Fri Nov 27 12:21:29 2020
+98,Planet Zoo,9,"44,99€",-40%,"26,99€",1,0,0,"5 Nov, 2019",Fri Nov 27 12:21:29 2020
+99,IL-2 Sturmovik: Battle of Stalingrad,7,"46,99€",-85%,"7,04€",1,0,0,"22 Oct, 2014",Fri Nov 27 12:21:29 2020
+100,XCOM® 2,9,"49,99€",-75%,"12,49€",1,1,1,"4 Feb, 2016",Fri Nov 27 12:21:30 2020
+101,Sid Meier's Civilization® VI: Gathering Storm,7,"39,99€",-60%,"15,99€",1,1,1,"13 Feb, 2019",Fri Nov 27 12:21:30 2020
+102,Wolfenstein Alt History Collection,9,"99,96€",-81%,"19,40€",1,0,0,,Fri Nov 27 12:21:30 2020
+103,Team Fortress 2,9,Free to Play,,Free to Play,1,1,1,"10 Oct, 2007",Fri Nov 27 12:21:30 2020
+104,Farming Simulator 19,9,"19,99€",-30%,"13,99€",1,0,1,"19 Nov, 2018",Fri Nov 27 12:21:30 2020
+105,The Crew™ 2,7,"49,99€",-80%,"9,99€",1,0,0,"28 Jun, 2018",Fri Nov 27 12:21:30 2020
+106,Age of Empires Definitive Collection,9,"59,97€",-61%,"23,22€",1,0,0,,Fri Nov 27 12:21:30 2020
+107,3DMark,9,"24,99€",-85%,"3,74€",1,0,0,"12 Feb, 2013",Fri Nov 27 12:21:30 2020
+108,Total War: WARHAMMER II - The Twisted & The Twilight,,"9,99€",-10%,"8,99€",1,1,1,"3 Dec, 2020",Fri Nov 27 12:21:30 2020
+109,Titanfall® 2,10,"29,99€",-67%,"9,89€",1,0,0,"18 Jun, 2020",Fri Nov 27 12:21:30 2020
+110,Noita,10,"18,99€",-25%,"14,24€",1,0,0,"15 Oct, 2020",Fri Nov 27 12:21:30 2020
+111,STAR WARS Jedi: Fallen Order Deluxe Edition,9,"69,99€",-60%,"27,99€",1,0,0,"14 Nov, 2019",Fri Nov 27 12:21:30 2020
+112,Resident Evil 2,10,"39,99€",-60%,"15,99€",1,0,0,"24 Jan, 2019",Fri Nov 27 12:21:30 2020
+113,Insurgency: Sandstorm,9,"29,99€",-50%,"14,99€",1,0,0,"12 Dec, 2018",Fri Nov 27 12:21:30 2020
+114,Dragon Age™ Inquisition,7,"39,99€",-70%,"11,99€",1,0,0,"4 Jun, 2020",Fri Nov 27 12:21:30 2020
+115,PAYDAY 2,9,"9,99€",-50%,"4,99€",1,1,0,"13 Aug, 2013",Fri Nov 27 12:21:30 2020
+116,Borderlands 3 Ultimate Edition,9,"114,97€",-35%,"74,67€",1,0,0,,Fri Nov 27 12:21:30 2020
+117,Medieval Dynasty,9,"24,99€",-20%,"19,99€",1,0,0,"17 Sep, 2020",Fri Nov 27 12:21:30 2020
+118,Wolfenstein: Youngblood,6,"29,99€",-70%,"8,99€",1,0,0,"25 Jul, 2019",Fri Nov 27 12:21:30 2020
+119,Tom Clancy's Ghost Recon® Wildlands,7,"49,99€",-70%,"14,99€",1,0,0,"6 Mar, 2017",Fri Nov 27 12:21:30 2020
+120,Remnant: From the Ashes,9,"39,99€",-50%,"19,99€",1,0,0,"19 Aug, 2019",Fri Nov 27 12:21:30 2020
+121,Disco Elysium,9,"39,99€",-30%,"27,99€",1,0,1,"15 Oct, 2019",Fri Nov 27 12:21:30 2020
+122,Kingdom Come: Deliverance,9,"29,99€",-50%,"14,99€",1,0,0,"13 Feb, 2018",Fri Nov 27 12:21:30 2020
+123,Gears 5,6,"39,99€",-75%,"9,99€",1,0,0,"9 Sep, 2019",Fri Nov 27 12:21:30 2020
+124,7 Days to Die,9,"22,99€",-66%,"7,81€",1,1,1,"13 Dec, 2013",Fri Nov 27 12:21:30 2020

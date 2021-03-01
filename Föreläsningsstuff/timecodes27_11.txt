@@ -1,0 +1,34 @@
+Timecodes 27.11
+
+00:02:40 Idag skall vi börja med NumPy
+00:09:20 Vi tar en snabb recap Projekt2
+00:21:50 Flyttat till slutet 
+00:23:30 Vi skall ta en titt på Numpy
+00:24:40 Men först använder vi listor
+00:33:00 Type of när man dividerar
+00:34:40 List Comprehension 
+00:37:30 18min paus
+00:56:00 Slut på paus -> Numpy
+01:00:50 Numpy och aritmetik över listor
+01:03:00 Vi skapar en Numpy Array
+01:04:00 Finally aritmetik över en array
+01:07:00 Välj rätt chart för rätt data
+01:09:30 Köpa konsoler som nya eller begagnade via tori.fi?
+01:11:00 Tillbaka till charts
+01:14:30 Välj rätt typ av slides för din presentation
+01:19:20 Visualisering
+01:40:00 Visualisering med matplotlib
+01:42:00 Vi börjar koda med numpy och matplotlib
+01:49:00 sinus och cosinus funktioner np.arrays och matplotlib
+02:00:45 paus 15min
+02:15:30 Slut på paus -> Vilken graf - Kontinuerlig data
+02:24:20 Vilken graf - Diskreet data
+02:31:00 Vilken graf - Korrelation
+02:36ish Vad går projekt3 ut på?
+02:43:40 Slut på teori
+02:46:30 Vi skapar en MatplotlibOchNumpyFil och 2 text filer
+02:59:30 Vi visar en graf med namn och löner
+03:05->  Vi leker vidare med olika numpy och matplotlib funktioner
+03:18:30 Furries??
+03:24:00 slut me youtube
+
